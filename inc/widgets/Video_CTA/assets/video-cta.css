@@ -1,0 +1,58 @@
+.zenith-module.video-cta .flxbx > div {
+    width: 50%;
+    align-self: center;
+}
+
+.zenith-module.video-cta .flxbx.left-align-video > div:first-child {
+    padding: 30px;
+}
+
+.zenith-module.video-cta .flxbx.left-align-text > div:last-child {
+    text-align: left;
+}
+
+.zenith-module.video-cta .flxbx.right-align-video > div:last-child {
+    padding: 30px;
+}
+
+.zenith-module.video-cta .flxbx.left-align-text > div:first-child {
+    text-align: left;
+}
+
+.zenith-module.video-cta h3 {
+    margin: 0;
+}
+
+.zenith-module.video-cta p {
+    margin: 15px 0 30px 0;
+}
+
+.zenith-module.video-cta .video-cta-wrapper.stacked {
+    margin-top: 30px;
+}
+
+@media (max-width:991px) {
+    .zenith-module.video-cta .flxbx {
+        display: block;
+    }
+    .zenith-module.video-cta .flxbx > div {
+        width: 100%;
+        padding: 0 !important;
+    }
+    .zenith-module.video-cta .flxbx.left-align-video > div:last-child {
+        padding-top: 30px !important;
+    }
+    .zenith-module.video-cta .flxbx.right-align-video > div:first-child {
+        padding-bottom: 30px !important;
+    }
+    .zenith-module.video-cta .flxbx .video-cta-wrapper {
+        margin: 0 auto;
+        display: block;
+    }
+}
+
+@media (max-width:767px) {
+    .zenith-module.video-cta h3 {
+        font-size: 1.5em;
+    }
+}

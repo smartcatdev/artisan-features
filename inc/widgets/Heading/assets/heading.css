@@ -1,0 +1,11 @@
+@media (max-width:767px) {
+
+    .zenith-module.heading h2 {
+        font-size: 2em;
+    }
+
+    .zenith-module.heading h6 {
+        font-size: .75em;
+    }
+    
+}
