@@ -98,7 +98,7 @@ function after_setup_theme() {
     require get_plugin_path() . 'inc/functions-general.php';
     require get_plugin_path() . 'inc/functions-metabox.php';
     require get_plugin_path() . 'inc/functions-shortcodes.php';
-    require get_plugin_path() . 'inc/functions-customizer.php';
+    if ( !class_exists( 'AcidConfig' ) ) { require get_plugin_path( '/inc/lib/Acid/acid.php' ); }
     require get_plugin_path() . 'inc/functions-widgets.php';
     require get_plugin_path() . 'inc/functions-enqueue.php';
     require get_plugin_path() . 'inc/functions-css.php';
