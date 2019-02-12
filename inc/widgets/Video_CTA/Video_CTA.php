@@ -1,14 +1,14 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class Video_CTA extends \AcidWidget{
     
     function __construct() {
         
         $args = array(
-            'id'            => 'zenith_video_cta', // 1. Edit the widget ID
-            'title'         => 'Zenith: YouTube Video CTA', // 2. Edit the Widget Title
+            'id'            => 'beyrouth_video_cta', // 1. Edit the widget ID
+            'title'         => 'Beyrouth: YouTube Video CTA', // 2. Edit the Widget Title
             'description'   => 'Output a single video, with some text in various ways', // 3. Edit the widget description
             'output_file'   => get_plugin_path( 'inc/widgets/Video_CTA/Video_CTA_View.php' ), // 4. Set the location of the frontend widget display
             'widget_title'  => false, // 5. Set to True if you want the built in Widget Title to be used
@@ -158,7 +158,7 @@ class Video_CTA extends \AcidWidget{
         );
         
         parent::__construct( $args, $fields, array(
-            'zenith-video-cta' => get_plugin_url( 'inc/widgets/Video_CTA/assets/video-cta.css' )
+            'beyrouth-video-cta' => get_plugin_url( 'inc/widgets/Video_CTA/assets/video-cta.css' )
         ) );
         
     }
@@ -166,7 +166,7 @@ class Video_CTA extends \AcidWidget{
 }
 
 function register_video_cta() {
-    register_widget( 'zenith\Video_CTA' );
+    register_widget( 'beyrouth\Video_CTA' );
 }
 
-add_action( 'widgets_init', 'zenith\register_video_cta' );
+add_action( 'widgets_init', 'beyrouth\register_video_cta' );

@@ -21,10 +21,10 @@ function acid_register_toggle() {
 
                     <label class="switch">
 
-                        <input id="cb<?php echo $this->instance_number ?>" type="checkbox" value="<?php echo esc_attr( $this->value() ); ?>" <?php $this->link(); checked( $this->value() ); ?> />
+                        <input id="cb<?php echo esc_attr( $this->instance_number ); ?>" type="checkbox" value="<?php echo esc_attr( $this->value() ); ?>" <?php $this->link(); checked( $this->value() ); ?> />
                         <span class="slider round"></span>
 
-                        <label for="<?php echo $this->instance_number ?>" class="tgl-btn"></label>
+                        <label for="<?php echo esc_attr( $this->instance_number ); ?>" class="tgl-btn"></label>
 
                     </label>
 
@@ -33,7 +33,7 @@ function acid_register_toggle() {
                 <div class="flex-inner-wide">
                 
                     <?php if ( !empty( $this->description ) ) : ?>
-                        <div class="description customize-control-description"><?php echo $this->description; ?></div>
+                        <div class="description customize-control-description"><?php echo esc_html( $this->description ); ?></div>
                     <?php endif; ?>
 
                 </div>

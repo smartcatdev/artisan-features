@@ -1,14 +1,14 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class Shortcode extends \AcidWidget{
     
     function __construct() {
         
         $args = array(
-            'id'            => 'zenith_shortcode', // 1. Edit the widget ID
-            'title'         => 'Zenith: Shortcode', // 2. Edit the Widget Title
+            'id'            => 'beyrouth_shortcode', // 1. Edit the widget ID
+            'title'         => 'Beyrouth: Shortcode', // 2. Edit the Widget Title
             'description'   => 'Allows you to enter a shortcode and output the result on your site', // 3. Edit the widget description
             'output_file'   => get_plugin_path( 'inc/widgets/Shortcode/Shortcode_View.php' ), // 4. Set the location of the frontend widget display
             'widget_title'  => false, // 5. Set to True if you want the built in Widget Title to be used
@@ -69,7 +69,7 @@ class Shortcode extends \AcidWidget{
 }
 
 function register_shortcode() {
-    register_widget( 'zenith\Shortcode' );
+    register_widget( 'beyrouth\Shortcode' );
 }
 
-add_action( 'widgets_init', 'zenith\register_shortcode' );
+add_action( 'widgets_init', 'beyrouth\register_shortcode' );

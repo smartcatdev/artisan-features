@@ -54,7 +54,7 @@ function acid_register_radio_image() {
             <?php endif; ?>
 
             <?php if ( !empty( $this->description ) ) : ?>
-                <span class="description customize-control-description"><?php echo $this->description; ?></span>
+                <span class="description customize-control-description"><?php echo esc_html( $this->description ); ?></span>
             <?php endif; ?>
 
             <div id="<?php echo esc_attr( "input_{$this->id}" ); ?>">

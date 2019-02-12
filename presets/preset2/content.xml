@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Zenith</title>
-	<link>http://zenith.preset2.smartcatthemes.com</link>
+	<title>Beyrouth</title>
+	<link>http://beyrouth.preset2.smartcatthemes.com</link>
 	<description>The Only Theme You Need To Learn</description>
 	<pubDate>Wed, 09 May 2018 21:35:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zenith.preset2.smartcatthemes.com</wp:base_site_url>
-	<wp:base_blog_url>http://zenith.preset2.smartcatthemes.com</wp:base_blog_url>
+	<wp:base_site_url>http://beyrouth.preset2.smartcatthemes.com</wp:base_site_url>
+	<wp:base_blog_url>http://beyrouth.preset2.smartcatthemes.com</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[smartcat]]></wp:author_login><wp:author_email><![CDATA[bilal@smartcat.ca]]></wp:author_email><wp:author_display_name><![CDATA[smartcat]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -337,11 +337,11 @@
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 
 	<item>
-		<title>Zenith - All Black Logotype</title>
-		<link>http://zenith.preset2.smartcatthemes.com/zenith-all-black-logotype/</link>
+		<title>Beyrouth - All Black Logotype</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/beyrouth-all-black-logotype/</link>
 		<pubDate>Mon, 07 May 2018 15:34:51 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Zenith-All-Black-Logotype.png</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Beyrouth-All-Black-Logotype.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -350,29 +350,29 @@
 		<wp:post_date_gmt><![CDATA[2018-05-07 15:34:51]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-all-black-logotype]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-all-black-logotype]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Zenith-All-Black-Logotype.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Beyrouth-All-Black-Logotype.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/Zenith-All-Black-Logotype.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/05/Beyrouth-All-Black-Logotype.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:260;s:4:"file";s:37:"2018/05/Zenith-All-Black-Logotype.png";s:5:"sizes";a:5:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:37:"Zenith-All-Black-Logotype-300x260.png";s:5:"width";i:300;s:6:"height";i:260;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:37:"Zenith-All-Black-Logotype-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:37:"Zenith-All-Black-Logotype-600x208.png";s:5:"width";i:600;s:6:"height";i:208;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"Zenith-All-Black-Logotype-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:37:"Zenith-All-Black-Logotype-300x104.png";s:5:"width";i:300;s:6:"height";i:104;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:260;s:4:"file";s:37:"2018/05/Beyrouth-All-Black-Logotype.png";s:5:"sizes";a:5:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:37:"Beyrouth-All-Black-Logotype-300x260.png";s:5:"width";i:300;s:6:"height";i:260;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:37:"Beyrouth-All-Black-Logotype-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:37:"Beyrouth-All-Black-Logotype-600x208.png";s:5:"width";i:600;s:6:"height";i:208;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"Beyrouth-All-Black-Logotype-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:37:"Beyrouth-All-Black-Logotype-300x104.png";s:5:"width";i:300;s:6:"height";i:104;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Zenith - purple</title>
-		<link>http://zenith.preset2.smartcatthemes.com/zenith-purple/</link>
+		<title>Beyrouth - purple</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/beyrouth-purple/</link>
 		<pubDate>Mon, 07 May 2018 15:36:38 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Zenith-purple.png</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Beyrouth-purple.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -381,29 +381,29 @@
 		<wp:post_date_gmt><![CDATA[2018-05-07 15:36:38]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-purple]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-purple]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Zenith-purple.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Beyrouth-purple.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/Zenith-purple.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/05/Beyrouth-purple.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:260;s:4:"file";s:25:"2018/05/Zenith-purple.png";s:5:"sizes";a:5:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:25:"Zenith-purple-300x260.png";s:5:"width";i:300;s:6:"height";i:260;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"Zenith-purple-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:25:"Zenith-purple-600x208.png";s:5:"width";i:600;s:6:"height";i:208;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"Zenith-purple-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:25:"Zenith-purple-300x104.png";s:5:"width";i:300;s:6:"height";i:104;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:260;s:4:"file";s:25:"2018/05/Beyrouth-purple.png";s:5:"sizes";a:5:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:25:"Beyrouth-purple-300x260.png";s:5:"width";i:300;s:6:"height";i:260;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"Beyrouth-purple-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:25:"Beyrouth-purple-600x208.png";s:5:"width";i:600;s:6:"height";i:208;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"Beyrouth-purple-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:25:"Beyrouth-purple-300x104.png";s:5:"width";i:300;s:6:"height";i:104;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>turntable-1337986_1280</title>
-		<link>http://zenith.preset2.smartcatthemes.com/turntable-1337986_1280/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/turntable-1337986_1280/</link>
 		<pubDate>Mon, 07 May 2018 16:52:25 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/turntable-1337986_1280.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/turntable-1337986_1280.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -419,7 +419,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/turntable-1337986_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/turntable-1337986_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/turntable-1337986_1280.jpg]]></wp:meta_value>
@@ -431,10 +431,10 @@
 	</item>
 	<item>
 		<title>architecture-1359707_1920</title>
-		<link>http://zenith.preset2.smartcatthemes.com/architecture-1359707_1920/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/architecture-1359707_1920/</link>
 		<pubDate>Mon, 07 May 2018 16:59:40 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-1359707_1920.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-1359707_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -450,7 +450,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-1359707_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-1359707_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/architecture-1359707_1920.jpg]]></wp:meta_value>
@@ -461,11 +461,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Zenith - All White Logotype</title>
-		<link>http://zenith.preset2.smartcatthemes.com/zenith-all-white-logotype/</link>
+		<title>Beyrouth - All White Logotype</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/beyrouth-all-white-logotype/</link>
 		<pubDate>Mon, 07 May 2018 17:15:42 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Zenith-All-White-Logotype.png</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Beyrouth-All-White-Logotype.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -474,29 +474,29 @@
 		<wp:post_date_gmt><![CDATA[2018-05-07 17:15:42]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-all-white-logotype]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-all-white-logotype]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Zenith-All-White-Logotype.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Beyrouth-All-White-Logotype.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/Zenith-All-White-Logotype.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/05/Beyrouth-All-White-Logotype.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:260;s:4:"file";s:37:"2018/05/Zenith-All-White-Logotype.png";s:5:"sizes";a:5:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:37:"Zenith-All-White-Logotype-300x260.png";s:5:"width";i:300;s:6:"height";i:260;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:37:"Zenith-All-White-Logotype-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:37:"Zenith-All-White-Logotype-600x208.png";s:5:"width";i:600;s:6:"height";i:208;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"Zenith-All-White-Logotype-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:37:"Zenith-All-White-Logotype-300x104.png";s:5:"width";i:300;s:6:"height";i:104;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:260;s:4:"file";s:37:"2018/05/Beyrouth-All-White-Logotype.png";s:5:"sizes";a:5:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:37:"Beyrouth-All-White-Logotype-300x260.png";s:5:"width";i:300;s:6:"height";i:260;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:37:"Beyrouth-All-White-Logotype-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:37:"Beyrouth-All-White-Logotype-600x208.png";s:5:"width";i:600;s:6:"height";i:208;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"Beyrouth-All-White-Logotype-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:37:"Beyrouth-All-White-Logotype-300x104.png";s:5:"width";i:300;s:6:"height";i:104;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Post</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/25/hello-world__trashed/post-2/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/25/hello-world__trashed/post-2/</link>
 		<pubDate>Mon, 07 May 2018 17:27:32 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -512,7 +512,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:901;s:6:"height";i:936;s:4:"file";s:16:"2018/04/Post.png";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:16:"Post-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:16:"Post-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:18:"woocommerce_single";a:4:{s:4:"file";s:16:"Post-600x623.png";s:5:"width";i:600;s:6:"height";i:623;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:16:"Post-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:16:"Post-289x300.png";s:5:"width";i:289;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:16:"Post-768x798.png";s:5:"width";i:768;s:6:"height";i:798;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
@@ -524,10 +524,10 @@
 	</item>
 	<item>
 		<title>woo</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/woo/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/woo/</link>
 		<pubDate>Mon, 07 May 2018 17:32:31 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/woo.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/woo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -543,7 +543,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/woo.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/woo.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/woo.jpg]]></wp:meta_value>
@@ -555,10 +555,10 @@
 	</item>
 	<item>
 		<title>last</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/last/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/last/</link>
 		<pubDate>Mon, 07 May 2018 17:32:38 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/last.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/last.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -574,7 +574,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/last.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/last.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/last.jpg]]></wp:meta_value>
@@ -586,10 +586,10 @@
 	</item>
 	<item>
 		<title>create</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/create/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/create/</link>
 		<pubDate>Mon, 07 May 2018 17:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/create.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/create.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -605,7 +605,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/create.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/create.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/create.jpg]]></wp:meta_value>
@@ -617,10 +617,10 @@
 	</item>
 	<item>
 		<title>starter</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/starter/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/starter/</link>
 		<pubDate>Mon, 07 May 2018 17:32:41 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/starter.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/starter.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -636,7 +636,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/starter.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/starter.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/starter.jpg]]></wp:meta_value>
@@ -648,10 +648,10 @@
 	</item>
 	<item>
 		<title>mindmap-2123973_1280-1-300x182</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/mindmap-2123973_1280-1-300x182/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/mindmap-2123973_1280-1-300x182/</link>
 		<pubDate>Mon, 07 May 2018 17:33:50 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/mindmap-2123973_1280-1-300x182.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/mindmap-2123973_1280-1-300x182.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -667,7 +667,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/mindmap-2123973_1280-1-300x182.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/mindmap-2123973_1280-1-300x182.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/04/mindmap-2123973_1280-1-300x182.jpg]]></wp:meta_value>
@@ -679,10 +679,10 @@
 	</item>
 	<item>
 		<title>Page</title>
-		<link>http://zenith.preset2.smartcatthemes.com/page-template/page-2/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/page-template/page-2/</link>
 		<pubDate>Mon, 07 May 2018 17:37:37 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Page.png</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Page.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -698,7 +698,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Page.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Page.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/Page.png]]></wp:meta_value>
@@ -710,10 +710,10 @@
 	</item>
 	<item>
 		<title>navbar-bg-image</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/navbar-bg-image/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/navbar-bg-image/</link>
 		<pubDate>Mon, 07 May 2018 17:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-bg-image.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-bg-image.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -729,7 +729,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-bg-image.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-bg-image.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/navbar-bg-image.jpg]]></wp:meta_value>
@@ -741,10 +741,10 @@
 	</item>
 	<item>
 		<title>navbar-centered-white</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/navbar-centered-white/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/navbar-centered-white/</link>
 		<pubDate>Mon, 07 May 2018 17:41:01 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-centered-white.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-centered-white.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -760,7 +760,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-centered-white.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-centered-white.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/navbar-centered-white.jpg]]></wp:meta_value>
@@ -771,11 +771,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>zenith-navbar-split</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/zenith-navbar-split/</link>
+		<title>beyrouth-navbar-split</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/beyrouth-navbar-split/</link>
 		<pubDate>Mon, 07 May 2018 17:41:02 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-split.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-split.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -784,29 +784,29 @@
 		<wp:post_date_gmt><![CDATA[2018-05-07 17:41:02]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-navbar-split]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-navbar-split]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>10</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-split.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-split.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/zenith-navbar-split.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/05/beyrouth-navbar-split.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:53;s:4:"file";s:31:"2018/05/zenith-navbar-split.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:30:"zenith-navbar-split-300x53.jpg";s:5:"width";i:300;s:6:"height";i:53;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:30:"zenith-navbar-split-100x53.jpg";s:5:"width";i:100;s:6:"height";i:53;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:30:"zenith-navbar-split-600x32.jpg";s:5:"width";i:600;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"zenith-navbar-split-150x53.jpg";s:5:"width";i:150;s:6:"height";i:53;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"zenith-navbar-split-300x16.jpg";s:5:"width";i:300;s:6:"height";i:16;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"zenith-navbar-split-768x41.jpg";s:5:"width";i:768;s:6:"height";i:41;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:53;s:4:"file";s:31:"2018/05/beyrouth-navbar-split.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:30:"beyrouth-navbar-split-300x53.jpg";s:5:"width";i:300;s:6:"height";i:53;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:30:"beyrouth-navbar-split-100x53.jpg";s:5:"width";i:100;s:6:"height";i:53;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:30:"beyrouth-navbar-split-600x32.jpg";s:5:"width";i:600;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"beyrouth-navbar-split-150x53.jpg";s:5:"width";i:150;s:6:"height";i:53;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"beyrouth-navbar-split-300x16.jpg";s:5:"width";i:300;s:6:"height";i:16;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"beyrouth-navbar-split-768x41.jpg";s:5:"width";i:768;s:6:"height";i:41;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>zenith-navbar-slim-right</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/zenith-navbar-slim-right/</link>
+		<title>beyrouth-navbar-slim-right</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/beyrouth-navbar-slim-right/</link>
 		<pubDate>Mon, 07 May 2018 17:41:02 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-slim-right.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-slim-right.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -815,29 +815,29 @@
 		<wp:post_date_gmt><![CDATA[2018-05-07 17:41:02]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-navbar-slim-right]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-navbar-slim-right]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>10</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-slim-right.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-slim-right.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/zenith-navbar-slim-right.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/05/beyrouth-navbar-slim-right.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:52;s:4:"file";s:36:"2018/05/zenith-navbar-slim-right.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"zenith-navbar-slim-right-300x52.jpg";s:5:"width";i:300;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"zenith-navbar-slim-right-100x52.jpg";s:5:"width";i:100;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"zenith-navbar-slim-right-600x31.jpg";s:5:"width";i:600;s:6:"height";i:31;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"zenith-navbar-slim-right-150x52.jpg";s:5:"width";i:150;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"zenith-navbar-slim-right-300x16.jpg";s:5:"width";i:300;s:6:"height";i:16;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"zenith-navbar-slim-right-768x40.jpg";s:5:"width";i:768;s:6:"height";i:40;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:52;s:4:"file";s:36:"2018/05/beyrouth-navbar-slim-right.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:35:"beyrouth-navbar-slim-right-300x52.jpg";s:5:"width";i:300;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:35:"beyrouth-navbar-slim-right-100x52.jpg";s:5:"width";i:100;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:35:"beyrouth-navbar-slim-right-600x31.jpg";s:5:"width";i:600;s:6:"height";i:31;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"beyrouth-navbar-slim-right-150x52.jpg";s:5:"width";i:150;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"beyrouth-navbar-slim-right-300x16.jpg";s:5:"width";i:300;s:6:"height";i:16;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"beyrouth-navbar-slim-right-768x40.jpg";s:5:"width";i:768;s:6:"height";i:40;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>navbar-slim-white</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/navbar-slim-white/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/navbar-slim-white/</link>
 		<pubDate>Mon, 07 May 2018 17:41:03 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-slim-white.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-slim-white.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -853,7 +853,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-slim-white.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-slim-white.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/navbar-slim-white.jpg]]></wp:meta_value>
@@ -864,11 +864,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>zenith-navbar-slim</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/zenith-navbar-slim/</link>
+		<title>beyrouth-navbar-slim</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/beyrouth-navbar-slim/</link>
 		<pubDate>Mon, 07 May 2018 17:41:03 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-slim.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-slim.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -877,29 +877,29 @@
 		<wp:post_date_gmt><![CDATA[2018-05-07 17:41:03]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-navbar-slim]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-navbar-slim]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>10</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-slim.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-slim.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/zenith-navbar-slim.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/05/beyrouth-navbar-slim.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:52;s:4:"file";s:30:"2018/05/zenith-navbar-slim.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:29:"zenith-navbar-slim-300x52.jpg";s:5:"width";i:300;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:29:"zenith-navbar-slim-100x52.jpg";s:5:"width";i:100;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:29:"zenith-navbar-slim-600x31.jpg";s:5:"width";i:600;s:6:"height";i:31;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:29:"zenith-navbar-slim-150x52.jpg";s:5:"width";i:150;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"zenith-navbar-slim-300x16.jpg";s:5:"width";i:300;s:6:"height";i:16;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"zenith-navbar-slim-768x40.jpg";s:5:"width";i:768;s:6:"height";i:40;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:52;s:4:"file";s:30:"2018/05/beyrouth-navbar-slim.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:29:"beyrouth-navbar-slim-300x52.jpg";s:5:"width";i:300;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:29:"beyrouth-navbar-slim-100x52.jpg";s:5:"width";i:100;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:29:"beyrouth-navbar-slim-600x31.jpg";s:5:"width";i:600;s:6:"height";i:31;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:29:"beyrouth-navbar-slim-150x52.jpg";s:5:"width";i:150;s:6:"height";i:52;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"beyrouth-navbar-slim-300x16.jpg";s:5:"width";i:300;s:6:"height";i:16;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"beyrouth-navbar-slim-768x40.jpg";s:5:"width";i:768;s:6:"height";i:40;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>banner-left-aligned</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/banner-left-aligned/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/banner-left-aligned/</link>
 		<pubDate>Mon, 07 May 2018 17:41:04 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/banner-left-aligned.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/banner-left-aligned.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -915,7 +915,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/banner-left-aligned.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/banner-left-aligned.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/banner-left-aligned.jpg]]></wp:meta_value>
@@ -926,11 +926,11 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>zenith-navbar-banner</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/zenith-navbar-banner/</link>
+		<title>beyrouth-navbar-banner</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/beyrouth-navbar-banner/</link>
 		<pubDate>Mon, 07 May 2018 17:41:04 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-banner.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-banner.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -939,29 +939,29 @@
 		<wp:post_date_gmt><![CDATA[2018-05-07 17:41:04]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-navbar-banner]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-navbar-banner]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>10</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-banner.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-banner.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/05/zenith-navbar-banner.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/05/beyrouth-navbar-banner.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:146;s:4:"file";s:32:"2018/05/zenith-navbar-banner.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:32:"zenith-navbar-banner-300x146.jpg";s:5:"width";i:300;s:6:"height";i:146;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:32:"zenith-navbar-banner-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:31:"zenith-navbar-banner-600x88.jpg";s:5:"width";i:600;s:6:"height";i:88;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"zenith-navbar-banner-150x146.jpg";s:5:"width";i:150;s:6:"height";i:146;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"zenith-navbar-banner-300x44.jpg";s:5:"width";i:300;s:6:"height";i:44;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"zenith-navbar-banner-768x112.jpg";s:5:"width";i:768;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:146;s:4:"file";s:32:"2018/05/beyrouth-navbar-banner.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:32:"beyrouth-navbar-banner-300x146.jpg";s:5:"width";i:300;s:6:"height";i:146;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:32:"beyrouth-navbar-banner-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:31:"beyrouth-navbar-banner-600x88.jpg";s:5:"width";i:600;s:6:"height";i:88;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"beyrouth-navbar-banner-150x146.jpg";s:5:"width";i:150;s:6:"height";i:146;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"beyrouth-navbar-banner-300x44.jpg";s:5:"width";i:300;s:6:"height";i:44;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"beyrouth-navbar-banner-768x112.jpg";s:5:"width";i:768;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>white-2591371_1920</title>
-		<link>http://zenith.preset2.smartcatthemes.com/white-2591371_1920/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/white-2591371_1920/</link>
 		<pubDate>Mon, 07 May 2018 17:48:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/white-2591371_1920.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/white-2591371_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -977,7 +977,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/white-2591371_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/white-2591371_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/white-2591371_1920.jpg]]></wp:meta_value>
@@ -989,10 +989,10 @@
 	</item>
 	<item>
 		<title>laptop-3317007_1280</title>
-		<link>http://zenith.preset2.smartcatthemes.com/laptop-3317007_1280/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/laptop-3317007_1280/</link>
 		<pubDate>Mon, 07 May 2018 20:39:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/laptop-3317007_1280.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/laptop-3317007_1280.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1008,7 +1008,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/laptop-3317007_1280.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/laptop-3317007_1280.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/laptop-3317007_1280.jpg]]></wp:meta_value>
@@ -1020,10 +1020,10 @@
 	</item>
 	<item>
 		<title>architecture-828596_1920</title>
-		<link>http://zenith.preset2.smartcatthemes.com/architecture-828596_1920/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/architecture-828596_1920/</link>
 		<pubDate>Mon, 07 May 2018 20:42:47 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-828596_1920.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-828596_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1039,7 +1039,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-828596_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/architecture-828596_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/architecture-828596_1920.jpg]]></wp:meta_value>
@@ -1051,10 +1051,10 @@
 	</item>
 	<item>
 		<title>poster-2857423_1920</title>
-		<link>http://zenith.preset2.smartcatthemes.com/poster-2857423_1920/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/poster-2857423_1920/</link>
 		<pubDate>Mon, 07 May 2018 20:44:24 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/poster-2857423_1920.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/poster-2857423_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1070,7 +1070,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/poster-2857423_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/poster-2857423_1920.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/poster-2857423_1920.jpg]]></wp:meta_value>
@@ -1082,10 +1082,10 @@
 	</item>
 	<item>
 		<title>vneck-tee-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=228</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=228</link>
 		<pubDate>Mon, 07 May 2018 20:49:56 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vneck-tee-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vneck-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1101,7 +1101,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vneck-tee-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vneck-tee-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/vneck-tee-2.jpg]]></wp:meta_value>
@@ -1117,10 +1117,10 @@
 	</item>
 	<item>
 		<title>vnech-tee-green-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=229</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=229</link>
 		<pubDate>Mon, 07 May 2018 20:49:57 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-green-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1136,7 +1136,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-green-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-green-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/vnech-tee-green-1.jpg]]></wp:meta_value>
@@ -1152,10 +1152,10 @@
 	</item>
 	<item>
 		<title>vnech-tee-blue-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=230</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=230</link>
 		<pubDate>Mon, 07 May 2018 20:49:58 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-blue-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1171,7 +1171,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-blue-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/vnech-tee-blue-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/vnech-tee-blue-1.jpg]]></wp:meta_value>
@@ -1187,10 +1187,10 @@
 	</item>
 	<item>
 		<title>hoodie-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=231</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=231</link>
 		<pubDate>Mon, 07 May 2018 20:50:00 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1206,7 +1206,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/hoodie-2.jpg]]></wp:meta_value>
@@ -1222,10 +1222,10 @@
 	</item>
 	<item>
 		<title>hoodie-blue-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=232</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=232</link>
 		<pubDate>Mon, 07 May 2018 20:50:01 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-blue-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-blue-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1241,7 +1241,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-blue-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-blue-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/hoodie-blue-1.jpg]]></wp:meta_value>
@@ -1257,10 +1257,10 @@
 	</item>
 	<item>
 		<title>hoodie-green-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=233</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=233</link>
 		<pubDate>Mon, 07 May 2018 20:50:02 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-green-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-green-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1276,7 +1276,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-green-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-green-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/hoodie-green-1.jpg]]></wp:meta_value>
@@ -1292,10 +1292,10 @@
 	</item>
 	<item>
 		<title>hoodie-with-logo-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=234</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=234</link>
 		<pubDate>Mon, 07 May 2018 20:50:03 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-logo-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-logo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1311,7 +1311,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-logo-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-logo-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/hoodie-with-logo-2.jpg]]></wp:meta_value>
@@ -1327,10 +1327,10 @@
 	</item>
 	<item>
 		<title>tshirt-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=235</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=235</link>
 		<pubDate>Mon, 07 May 2018 20:50:04 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/tshirt-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/tshirt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1346,7 +1346,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/tshirt-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/tshirt-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/tshirt-2.jpg]]></wp:meta_value>
@@ -1362,10 +1362,10 @@
 	</item>
 	<item>
 		<title>beanie-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=236</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=236</link>
 		<pubDate>Mon, 07 May 2018 20:50:05 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1381,7 +1381,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/beanie-2.jpg]]></wp:meta_value>
@@ -1397,10 +1397,10 @@
 	</item>
 	<item>
 		<title>belt-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=237</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=237</link>
 		<pubDate>Mon, 07 May 2018 20:50:06 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/belt-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/belt-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1416,7 +1416,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/belt-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/belt-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/belt-2.jpg]]></wp:meta_value>
@@ -1432,10 +1432,10 @@
 	</item>
 	<item>
 		<title>cap-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=238</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=238</link>
 		<pubDate>Mon, 07 May 2018 20:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/cap-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/cap-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1451,7 +1451,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/cap-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/cap-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/cap-2.jpg]]></wp:meta_value>
@@ -1467,10 +1467,10 @@
 	</item>
 	<item>
 		<title>sunglasses-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=239</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=239</link>
 		<pubDate>Mon, 07 May 2018 20:50:09 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/sunglasses-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/sunglasses-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1486,7 +1486,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/sunglasses-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/sunglasses-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/sunglasses-2.jpg]]></wp:meta_value>
@@ -1502,10 +1502,10 @@
 	</item>
 	<item>
 		<title>hoodie-with-pocket-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=240</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=240</link>
 		<pubDate>Mon, 07 May 2018 20:50:10 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-pocket-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-pocket-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1521,7 +1521,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-pocket-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/hoodie-with-pocket-2.jpg]]></wp:meta_value>
@@ -1537,10 +1537,10 @@
 	</item>
 	<item>
 		<title>hoodie-with-zipper-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=241</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=241</link>
 		<pubDate>Mon, 07 May 2018 20:50:11 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-zipper-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-zipper-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1556,7 +1556,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/hoodie-with-zipper-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/hoodie-with-zipper-2.jpg]]></wp:meta_value>
@@ -1572,10 +1572,10 @@
 	</item>
 	<item>
 		<title>long-sleeve-tee-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=242</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=242</link>
 		<pubDate>Mon, 07 May 2018 20:50:13 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/long-sleeve-tee-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/long-sleeve-tee-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1591,7 +1591,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/long-sleeve-tee-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/long-sleeve-tee-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/long-sleeve-tee-2.jpg]]></wp:meta_value>
@@ -1607,10 +1607,10 @@
 	</item>
 	<item>
 		<title>polo-2.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=243</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=243</link>
 		<pubDate>Mon, 07 May 2018 20:50:16 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/polo-2.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/polo-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1626,7 +1626,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/polo-2.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/polo-2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/polo-2.jpg]]></wp:meta_value>
@@ -1642,10 +1642,10 @@
 	</item>
 	<item>
 		<title>Sample Page</title>
-		<link>http://zenith.preset2.smartcatthemes.com/sample-page/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/sample-page/</link>
 		<pubDate>Wed, 25 Apr 2018 17:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=2</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -1655,7 +1655,7 @@
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="http://zenith.preset2.smartcatthemes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+As a new WordPress user, you should go to <a href="http://beyrouth.preset2.smartcatthemes.com/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 17:13:27]]></wp:post_date>
@@ -1675,24 +1675,24 @@ As a new WordPress user, you should go to <a href="http://zenith.preset2.smartca
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Zenith Widgets</title>
-		<link>http://zenith.preset2.smartcatthemes.com/zenith-widgets/</link>
+		<title>Beyrouth Widgets</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/beyrouth-widgets/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=8</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=8</guid>
 		<description></description>
-		<content:encoded><![CDATA[This page contains a small sample of what is possible using Zenith's Live Page Builder widgets. This page is set to the Page Template A template. This means that any page set to Page Template A will display the same widgets that you have assigned to this template from the theme customizer. This feature allows you to assign unique widgets to each template, allowing you to create pages that look very different from one another.
+		<content:encoded><![CDATA[This page contains a small sample of what is possible using Beyrouth's Live Page Builder widgets. This page is set to the Page Template A template. This means that any page set to Page Template A will display the same widgets that you have assigned to this template from the theme customizer. This feature allows you to assign unique widgets to each template, allowing you to create pages that look very different from one another.
 
 Each one of the widgets you see on this page allows you to set the background color, text color, padding, alignment and more. Some of these widgets have options for video, images, buttons as well as different layout templates. These settings are set on a per-widget basis, allowing you to re-use the same widget, with a different appearance!
 
-Zenith comes with a default page template, with it's own widget areas, as well as Page Template A, B and C, each with their own above and below content widget areas. This text is part of the page content itself, which can be edited by clicking on Edit page. The widget areas appear above and below the content, and will only appear if there are widgets assigned to these areas.]]></content:encoded>
+Beyrouth comes with a default page template, with it's own widget areas, as well as Page Template A, B and C, each with their own above and below content widget areas. This text is part of the page content itself, which can be edited by clicking on Edit page. The widget areas appear above and below the content, and will only appear if there are widgets assigned to these areas.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2018-05-07 16:33:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-05-07 16:33:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith-widgets]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth-widgets]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -1714,35 +1714,35 @@ Zenith comes with a default page template, with it's own widget areas, as well a
 	</item>
 	<item>
 		<title>Navbars</title>
-		<link>http://zenith.preset2.smartcatthemes.com/navbars/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/navbars/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=10</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[With Zenith, you can select which Navbar template you want to use, as well as customize background colors, text colors, fonts, logo and more. Below is a list of navbars, all created with with Zenith. The navbar can be either dark, light, or you can upload an image as a background, giving you tons of flexibility when creating your site.
+		<content:encoded><![CDATA[With Beyrouth, you can select which Navbar template you want to use, as well as customize background colors, text colors, fonts, logo and more. Below is a list of navbars, all created with with Beyrouth. The navbar can be either dark, light, or you can upload an image as a background, giving you tons of flexibility when creating your site.
 
 <h3>Navbar Banner</h3>
-<img class="showcase-image alignnone size-full wp-image-271" src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-banner.jpg" alt="" width="1000" height="146" />
+<img class="showcase-image alignnone size-full wp-image-271" src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-banner.jpg" alt="" width="1000" height="146" />
 
-<img class="showcase-image alignnone size-full wp-image-272" src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/banner-left-aligned.jpg" alt="" width="1000" height="148" />
+<img class="showcase-image alignnone size-full wp-image-272" src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/banner-left-aligned.jpg" alt="" width="1000" height="148" />
 
 <h3>Navbar Slim</h3>
 
-<img class="showcase-image alignnone size-full wp-image-273" src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-slim.jpg" alt="" width="1000" height="52" />
+<img class="showcase-image alignnone size-full wp-image-273" src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-slim.jpg" alt="" width="1000" height="52" />
 
-<img class="showcase-image alignnone size-full wp-image-279" src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-slim-white.jpg" alt="" width="1000" height="54" />
+<img class="showcase-image alignnone size-full wp-image-279" src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-slim-white.jpg" alt="" width="1000" height="54" />
 
-<img class="showcase-image alignnone size-full wp-image-274" src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-slim-right.jpg" alt="" width="1000" height="52" />
+<img class="showcase-image alignnone size-full wp-image-274" src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-slim-right.jpg" alt="" width="1000" height="52" />
 
 <h3>Navbar - Centered &amp; Split</h3>
 
-<img class="showcase-image alignnone size-full wp-image-275" src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/zenith-navbar-split.jpg" alt="" width="1000" height="53" />
+<img class="showcase-image alignnone size-full wp-image-275" src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beyrouth-navbar-split.jpg" alt="" width="1000" height="53" />
 
-<img class="showcase-image alignnone size-full wp-image-280" src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-centered-white.jpg" alt="" width="1000" height="54" />
+<img class="showcase-image alignnone size-full wp-image-280" src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-centered-white.jpg" alt="" width="1000" height="54" />
 
 <h3>Navbar - Image Background</h3>
 Set any image as the navbar background. This option is compatible with any of these navbar templates.
-<img src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-bg-image.jpg" alt="" width="1000" height="55" class="showcase-image alignnone size-full wp-image-291" />]]></content:encoded>
+<img src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/navbar-bg-image.jpg" alt="" width="1000" height="55" class="showcase-image alignnone size-full wp-image-291" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2018-05-07 16:33:35]]></wp:post_date>
@@ -1771,10 +1771,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>Shop</title>
-		<link>http://zenith.preset2.smartcatthemes.com/shop/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/shop/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=11</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1797,10 +1797,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>Templates</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/templates/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/templates/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/templates/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/templates/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1852,10 +1852,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title></title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/17/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/17/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/17/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/17/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1906,11 +1906,11 @@ Set any image as the navbar background. This option is compatible with any of th
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Get Zenith</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/get-zenith/</link>
+		<title>Get Beyrouth</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/get-beyrouth/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/get-zenith/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/get-beyrouth/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1919,7 +1919,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_date_gmt><![CDATA[2018-05-07 16:33:35]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[get-zenith]]></wp:post_name>
+		<wp:post_name><![CDATA[get-beyrouth]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>8</wp:menu_order>
@@ -1957,15 +1957,15 @@ Set any image as the navbar background. This option is compatible with any of th
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://wordpress.org/themes/zenith/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wordpress.org/themes/beyrouth/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/23/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/23/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/23/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/23/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2017,10 +2017,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title></title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/24/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/24/</link>
 		<pubDate>Mon, 07 May 2018 16:33:35 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/24/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/24/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2071,11 +2071,11 @@ Set any image as the navbar background. This option is compatible with any of th
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Get Zenith Now!</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/get-zenith-now/</link>
+		<title>Get Beyrouth Now!</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/get-beyrouth-now/</link>
 		<pubDate>Mon, 07 May 2018 16:41:50 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/get-zenith-now/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/get-beyrouth-now/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2084,7 +2084,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_date_gmt><![CDATA[2018-05-07 16:41:50]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[get-zenith-now]]></wp:post_name>
+		<wp:post_name><![CDATA[get-beyrouth-now]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
@@ -2122,15 +2122,15 @@ Set any image as the navbar background. This option is compatible with any of th
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://wordpress.org/themes/zenith/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wordpress.org/themes/beyrouth/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>zenith</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/zenith/</link>
+		<title>beyrouth</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/beyrouth/</link>
 		<pubDate>Mon, 07 May 2018 16:56:04 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/zenith/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/beyrouth/</guid>
 		<description></description>
 		<content:encoded><![CDATA[span.pre-title {
     text-transform: uppercase;
@@ -2151,7 +2151,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_date_gmt><![CDATA[2018-05-07 16:56:04]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[zenith]]></wp:post_name>
+		<wp:post_name><![CDATA[beyrouth]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2161,10 +2161,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>Page</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/page/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/page/</link>
 		<pubDate>Mon, 07 May 2018 17:38:51 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/page/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/page/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2216,10 +2216,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>Post</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/post/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/post/</link>
 		<pubDate>Mon, 07 May 2018 17:38:51 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/post/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/post/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2271,10 +2271,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/05/07/articles/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/05/07/articles/</link>
 		<pubDate>Mon, 07 May 2018 17:50:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/2018/05/07/articles/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/2018/05/07/articles/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2321,15 +2321,15 @@ Set any image as the navbar background. This option is compatible with any of th
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://zenith.preset2.smartcatthemes.com/blog]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://beyrouth.preset2.smartcatthemes.com/blog]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>album-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=244</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=244</link>
 		<pubDate>Mon, 07 May 2018 20:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/album-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/album-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2345,7 +2345,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/album-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/album-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/album-1.jpg]]></wp:meta_value>
@@ -2361,10 +2361,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>single-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=245</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=245</link>
 		<pubDate>Mon, 07 May 2018 20:50:19 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/single-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/single-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2380,7 +2380,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/single-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/single-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/single-1.jpg]]></wp:meta_value>
@@ -2396,10 +2396,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>t-shirt-with-logo-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=246</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=246</link>
 		<pubDate>Mon, 07 May 2018 20:50:21 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/t-shirt-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/t-shirt-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2415,7 +2415,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/t-shirt-with-logo-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/t-shirt-with-logo-1.jpg]]></wp:meta_value>
@@ -2431,10 +2431,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>beanie-with-logo-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=247</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=247</link>
 		<pubDate>Mon, 07 May 2018 20:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-with-logo-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-with-logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2450,7 +2450,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-with-logo-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/beanie-with-logo-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/beanie-with-logo-1.jpg]]></wp:meta_value>
@@ -2466,10 +2466,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>logo-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=248</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=248</link>
 		<pubDate>Mon, 07 May 2018 20:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/logo-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/logo-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2485,7 +2485,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/logo-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/logo-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/logo-1.jpg]]></wp:meta_value>
@@ -2501,10 +2501,10 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>pennant-1.jpg</title>
-		<link>http://zenith.preset2.smartcatthemes.com/?attachment_id=249</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/?attachment_id=249</link>
 		<pubDate>Mon, 07 May 2018 20:50:25 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/pennant-1.jpg</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/pennant-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2520,7 +2520,7 @@ Set any image as the navbar background. This option is compatible with any of th
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/pennant-1.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/pennant-1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/05/pennant-1.jpg]]></wp:meta_value>
@@ -2536,20 +2536,20 @@ Set any image as the navbar background. This option is compatible with any of th
 	</item>
 	<item>
 		<title>Post Template</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/25/hello-world__trashed/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/25/hello-world__trashed/</link>
 		<pubDate>Wed, 25 Apr 2018 17:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?p=1</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Zenith has a post template that displays your articles with emphasis on readability. The single post template has 2 unique widget areas that will only show up on single posts. This allows you to utilize widgets exclusively for the posts, without impacting the frontpage, blog or page templates.
+		<content:encoded><![CDATA[Beyrouth has a post template that displays your articles with emphasis on readability. The single post template has 2 unique widget areas that will only show up on single posts. This allows you to utilize widgets exclusively for the posts, without impacting the frontpage, blog or page templates.
 
 This diagram is a representation of the layout of the single post template. Note that the header is optional, and can be toggled on posts from the theme customizer under Customizer - Header - Display Locations.
 
-The <strong>Above Content</strong> and <strong>Below Content</strong> widget areas are perfect location for one of the many included <strong>Zenith Widgets</strong>. In these areas, you can add sliders, image CTAs, Video CTAs, standard call-to-action, shortcodes and more! These widgets add a lot of character to your posts, and you can utilize these widgets to display your content professionally, and grab your site visitors' attention.
+The <strong>Above Content</strong> and <strong>Below Content</strong> widget areas are perfect location for one of the many included <strong>Beyrouth Widgets</strong>. In these areas, you can add sliders, image CTAs, Video CTAs, standard call-to-action, shortcodes and more! These widgets add a lot of character to your posts, and you can utilize these widgets to display your content professionally, and grab your site visitors' attention.
 
-<a href="http://zenith.preset1.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/">Click here to see a sample blog post.</a>
+<a href="http://beyrouth.preset1.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/">Click here to see a sample blog post.</a>
 
-<img src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png" alt="" width="901" height="936" class="showcase-image alignnone size-full wp-image-309" />
+<img src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png" alt="" width="901" height="936" class="showcase-image alignnone size-full wp-image-309" />
 
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2605,20 +2605,20 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 	</item>
 	<item>
 		<title>Post Template</title>
-		<link>http://zenith.preset2.smartcatthemes.com/post-template/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/post-template/</link>
 		<pubDate>Mon, 07 May 2018 17:29:07 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=47</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=47</guid>
 		<description></description>
-		<content:encoded><![CDATA[Zenith has a post template that displays your articles with emphasis on readability. The single post template has 2 unique widget areas that will only show up on single posts. This allows you to utilize widgets exclusively for the posts, without impacting the frontpage, blog or page templates.
+		<content:encoded><![CDATA[Beyrouth has a post template that displays your articles with emphasis on readability. The single post template has 2 unique widget areas that will only show up on single posts. This allows you to utilize widgets exclusively for the posts, without impacting the frontpage, blog or page templates.
 
 This diagram is a representation of the layout of the single post template. Note that the header is optional, and can be toggled on posts from the theme customizer under Customizer - Header - Display Locations.
 
-The <strong>Above Content</strong> and <strong>Below Content</strong> widget areas are perfect location for one of the many included <strong>Zenith Widgets</strong>. In these areas, you can add sliders, image CTAs, Video CTAs, standard call-to-action, shortcodes and more! These widgets add a lot of character to your posts, and you can utilize these widgets to display your content professionally, and grab your site visitors' attention.
+The <strong>Above Content</strong> and <strong>Below Content</strong> widget areas are perfect location for one of the many included <strong>Beyrouth Widgets</strong>. In these areas, you can add sliders, image CTAs, Video CTAs, standard call-to-action, shortcodes and more! These widgets add a lot of character to your posts, and you can utilize these widgets to display your content professionally, and grab your site visitors' attention.
 
-<a href="http://zenith.preset2.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/">Click here to see a sample blog post.</a>
+<a href="http://beyrouth.preset2.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/">Click here to see a sample blog post.</a>
 
-<img src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png" alt="" width="901" height="936" class="showcase-image alignnone size-full wp-image-309" />]]></content:encoded>
+<img src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/Post.png" alt="" width="901" height="936" class="showcase-image alignnone size-full wp-image-309" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2018-05-07 17:29:07]]></wp:post_date>
@@ -2643,18 +2643,18 @@ The <strong>Above Content</strong> and <strong>Below Content</strong> widget are
 	</item>
 	<item>
 		<title>The Last Theme You Need to Learn</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/the-last-theme-you-need-to-learn/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/the-last-theme-you-need-to-learn/</link>
 		<pubDate>Tue, 17 Apr 2018 18:17:58 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
 		<guid isPermaLink="false">https://smartcatthemes.com/?p=148</guid>
 		<description></description>
-		<content:encoded><![CDATA[We have built what we believe is the easiest theme to use, with tons of customizability, and features that users are only used to getting in a paid or premium theme. We have been building themes for 5 years, and we have learnt so much about what users want, what works and what is trivial. Therefore, we have put together everything we have learned, and built Zenith from the ground up, making it the all-in-one theme, that is light weight, fast, easy to use, with an unbelievable amount of customizability.
+		<content:encoded><![CDATA[We have built what we believe is the easiest theme to use, with tons of customizability, and features that users are only used to getting in a paid or premium theme. We have been building themes for 5 years, and we have learnt so much about what users want, what works and what is trivial. Therefore, we have put together everything we have learned, and built Beyrouth from the ground up, making it the all-in-one theme, that is light weight, fast, easy to use, with an unbelievable amount of customizability.
 <h3>A Theme for Everyone</h3>
-With Zenith, you can create a professional website in minutes, and customize it to your liking. The theme's optional <strong>One-Click Import</strong> system allows you to pick what preset suits your needs as a starting point. This automatically imports the widgets and the customizer settings that we have spent hours creating, so you do not have to, allowing you to focus more on your website content, rather than the design. Zenith's presets are <strong>hand-crafted, pixel-perfect professional presets</strong>, ensuring your site will look amazing, with minimal effort. Additionally, you can try out different presets, and fine-tune anything you want to change.
+With Beyrouth, you can create a professional website in minutes, and customize it to your liking. The theme's optional <strong>One-Click Import</strong> system allows you to pick what preset suits your needs as a starting point. This automatically imports the widgets and the customizer settings that we have spent hours creating, so you do not have to, allowing you to focus more on your website content, rather than the design. Beyrouth's presets are <strong>hand-crafted, pixel-perfect professional presets</strong>, ensuring your site will look amazing, with minimal effort. Additionally, you can try out different presets, and fine-tune anything you want to change.
 <h3>Advanced WordPress Users &amp; Developers</h3>
-If you build websites professionally for your clients, you will find that with Zenith, you will save yourself tons of time creating websites. Zenith takes the headache out of creating a website, as it utilizes WordPress's core Widgets API and templates, allowing you to use it's <strong>Drag &amp; Drop Page Builder</strong> to create creative and unique pages, and <strong>preview your changes live</strong>, until you're ready to publish. We know that installing a new theme always demands your time to get used to how the theme works. With Zenith, everything you're working with, is built into WordPress, there are no complicated plugins to learn, and no heavy frameworks being loaded.
+If you build websites professionally for your clients, you will find that with Beyrouth, you will save yourself tons of time creating websites. Beyrouth takes the headache out of creating a website, as it utilizes WordPress's core Widgets API and templates, allowing you to use it's <strong>Drag &amp; Drop Page Builder</strong> to create creative and unique pages, and <strong>preview your changes live</strong>, until you're ready to publish. We know that installing a new theme always demands your time to get used to how the theme works. With Beyrouth, everything you're working with, is built into WordPress, there are no complicated plugins to learn, and no heavy frameworks being loaded.
 <h3>One Theme, Many Unique Sites</h3>
-Initially when we started building the Zenith theme, our goal was to create a theme that we can use to create all of our future client projects, using the same theme. Thus eliminating the learning curve that comes with theme switching, and standardizing on the way that we do things, in order to save time. We loved this approach so much that we decided to release this theme for free, so that the entire WordPress community can benefit from what Zenith has to offer, and hopefully create something amazing using this theme.]]></content:encoded>
+Initially when we started building the Beyrouth theme, our goal was to create a theme that we can use to create all of our future client projects, using the same theme. Thus eliminating the learning curve that comes with theme switching, and standardizing on the way that we do things, in order to save time. We loved this approach so much that we decided to release this theme for free, so that the entire WordPress community can benefit from what Beyrouth has to offer, and hopefully create something amazing using this theme.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>148</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-17 18:17:58]]></wp:post_date>
@@ -2679,8 +2679,8 @@ Initially when we started building the Zenith theme, our goal was to create a th
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Create Websites with Zenith&#039;s Page Builder</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/create-websites-with-zeniths-page-builder/</link>
+		<title>Create Websites with Beyrouth&#039;s Page Builder</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/create-websites-with-beyrouths-page-builder/</link>
 		<pubDate>Tue, 17 Apr 2018 18:31:51 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
 		<guid isPermaLink="false">https://smartcatthemes.com/?p=151</guid>
@@ -2689,7 +2689,7 @@ Initially when we started building the Zenith theme, our goal was to create a th
 
 Flexible Approach to Website Design
 
-Zenith is named as such, because it truly lets you build your site the way you imagine it, using the bundled widgets. All you have to do is, navigate to the page you want to build, click on Customize (appears in the black admin bar up top), head to Widgets, then start adding or moving one of the many Zenith Widgets. This includes (but is not limited to):
+Beyrouth is named as such, because it truly lets you build your site the way you imagine it, using the bundled widgets. All you have to do is, navigate to the page you want to build, click on Customize (appears in the black admin bar up top), head to Widgets, then start adding or moving one of the many Beyrouth Widgets. This includes (but is not limited to):
 <ul>
  	<li>Image Slider (with customizable effects, timing, text and buttons)</li>
  	<li>Image Call-to-action (3 different templates, flippable, customizable text &amp; background colors &amp; buttons)</li>
@@ -2706,7 +2706,7 @@ and many more..
 		<wp:post_date_gmt><![CDATA[2018-04-17 18:31:51]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[create-websites-with-zeniths-page-builder]]></wp:post_name>
+		<wp:post_name><![CDATA[create-websites-with-beyrouths-page-builder]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2725,16 +2725,16 @@ and many more..
 	</item>
 	<item>
 		<title>Starter Presets are One Click Away</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/starter-presets-are-one-click-away/</link>
 		<pubDate>Tue, 17 Apr 2018 18:40:38 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
 		<guid isPermaLink="false">https://smartcatthemes.com/?p=152</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/04/mindmap-2123973_1280-1-300x182.jpg" alt="" width="300" height="182" class="alignleft size-medium wp-image-313" />Every theme on WordPress works the same way: You install the theme, then spend a few hours customizing it until you decide if you love it, or you delete it and start over again with another theme. The average WordPress user is used to this approach, and is wasting many valuable hours simply looking for something that just works. And even when you find the right theme, you're often met with blockers, such as things that are not customizable, static design that can't be changed, or features locked behind a paywall.
+		<content:encoded><![CDATA[<img src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/04/mindmap-2123973_1280-1-300x182.jpg" alt="" width="300" height="182" class="alignleft size-medium wp-image-313" />Every theme on WordPress works the same way: You install the theme, then spend a few hours customizing it until you decide if you love it, or you delete it and start over again with another theme. The average WordPress user is used to this approach, and is wasting many valuable hours simply looking for something that just works. And even when you find the right theme, you're often met with blockers, such as things that are not customizable, static design that can't be changed, or features locked behind a paywall.
 
 As WordPress developers, we are aware how time-consuming finding the right theme is. Therefore, we have created different presets that you can choose to install with a click of a button. This gives you the benefit of having your site built for you, from our designs in no-time, while having the ability to customize the presets to your liking.
 
-Zenith's presets are tailored towards various types of websites. Using the presets, you can do your work faster, and leverage the theme Customizer to fine-tune the theme to your liking.]]></content:encoded>
+Beyrouth's presets are tailored towards various types of websites. Using the presets, you can do your work faster, and leverage the theme Customizer to fine-tune the theme to your liking.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-17 18:40:38]]></wp:post_date>
@@ -2759,15 +2759,15 @@ Zenith's presets are tailored towards various types of websites. Using the prese
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Sell Online with Zenith &amp; WooCommerce</title>
-		<link>http://zenith.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/</link>
+		<title>Sell Online with Beyrouth &amp; WooCommerce</title>
+		<link>http://beyrouth.preset2.smartcatthemes.com/2018/04/17/sell-online-with-woocommerce/</link>
 		<pubDate>Tue, 17 Apr 2018 19:07:39 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
 		<guid isPermaLink="false">https://smartcatthemes.com/?p=155</guid>
 		<description></description>
 		<content:encoded><![CDATA[Do you need a website that allows you to sell online with ease? If so, odds are you're either already familiar with WooCommerce, or you're about to learn it, because basically, any search you do online regarding selling online on WordPress, will lead you to WooCommerce. It is by far the most popular shopping cart software in the world, due to it's ease of use and setup.
 
-Zenith is integrated with WooCommerce from the ground up. With Zenith, you can install the WooCommerce plugin, set up your store page, and Zenith will handle the rest. Out of the box, you will get a pixel-perfect shop page, which allows you to hand-pick featured products, and display the rest of your products in an searchable &amp; filterable grid. Additionally, Zenith's cart is unique, it is inviting, and it makes for a great shopping experience that your customers will appreciate.]]></content:encoded>
+Beyrouth is integrated with WooCommerce from the ground up. With Beyrouth, you can install the WooCommerce plugin, set up your store page, and Beyrouth will handle the rest. Out of the box, you will get a pixel-perfect shop page, which allows you to hand-pick featured products, and display the rest of your products in an searchable &amp; filterable grid. Additionally, Beyrouth's cart is unique, it is inviting, and it makes for a great shopping experience that your customers will appreciate.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>155</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-17 19:07:39]]></wp:post_date>
@@ -2793,16 +2793,16 @@ Zenith is integrated with WooCommerce from the ground up. With Zenith, you can i
 	</item>
 	<item>
 		<title>Page Template</title>
-		<link>http://zenith.preset2.smartcatthemes.com/page-template/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/page-template/</link>
 		<pubDate>Mon, 07 May 2018 17:37:56 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=169</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=169</guid>
 		<description></description>
-		<content:encoded><![CDATA[This is a WordPress page in Zenith which uses the <strong>default template without any widgets.</strong> This is a standard page that will display all widgets from the Page - Above Content and Page - Below Content widget areas. The content of the editor shows up between the widget areas.
+		<content:encoded><![CDATA[This is a WordPress page in Beyrouth which uses the <strong>default template without any widgets.</strong> This is a standard page that will display all widgets from the Page - Above Content and Page - Below Content widget areas. The content of the editor shows up between the widget areas.
 
-This text is the page content that can be added/edited by creating a new page, or editing an existing page. Additionally, you can place any widget above or below this section from the theme Customizer under Widgets. Click here to view a demo of a page that is built with <strong>Zenith's drag &amp; drop widgets</strong>.
+This text is the page content that can be added/edited by creating a new page, or editing an existing page. Additionally, you can place any widget above or below this section from the theme Customizer under Widgets. Click here to view a demo of a page that is built with <strong>Beyrouth's drag &amp; drop widgets</strong>.
 
-<img src="http://zenith.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Page.png" alt="" width="901" height="936" class="alignnone size-full wp-image-321" />]]></content:encoded>
+<img src="http://beyrouth.preset2.smartcatthemes.com/wp-content/uploads/2018/05/Page.png" alt="" width="901" height="936" class="alignnone size-full wp-image-321" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2018-05-07 17:37:56]]></wp:post_date>
@@ -2827,10 +2827,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>V-Neck T-Shirt</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/v-neck-t-shirt/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/v-neck-t-shirt/</link>
 		<pubDate>Mon, 07 May 2018 20:49:52 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-44/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-44/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a variable product.]]></excerpt:encoded>
@@ -3006,10 +3006,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-45/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-45/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a variable product.]]></excerpt:encoded>
@@ -3181,10 +3181,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie with Logo</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie-with-logo/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie-with-logo/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-46/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-46/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -3350,10 +3350,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>T-Shirt</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/t-shirt/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/t-shirt/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-47/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-47/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -3519,10 +3519,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Beanie</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/beanie/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/beanie/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-48/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-48/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -3688,10 +3688,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Belt</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/belt/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/belt/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-58/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-58/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -3856,10 +3856,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Cap</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/cap/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/cap/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-60/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-60/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -4026,10 +4026,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Sunglasses</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/sunglasses/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/sunglasses/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-62/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-62/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -4195,10 +4195,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie with Pocket</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie-with-pocket/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie-with-pocket/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-64/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-64/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -4367,10 +4367,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie with Zipper</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie-with-zipper/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie-with-zipper/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-66/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-66/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -4536,10 +4536,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Long Sleeve Tee</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/long-sleeve-tee/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/long-sleeve-tee/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-68/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-68/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -4705,10 +4705,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://zenith.preset2.smartcatthemes.com/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/</link>
 		<pubDate>Wed, 09 May 2018 20:49:11 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=251</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=251</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4735,10 +4735,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://zenith.preset2.smartcatthemes.com/blog/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/blog/</link>
 		<pubDate>Wed, 09 May 2018 20:50:10 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/?page_id=253</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/?page_id=253</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4765,10 +4765,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Polo</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/polo/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/polo/</link>
 		<pubDate>Mon, 07 May 2018 20:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-70/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-70/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -4934,10 +4934,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Album</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/album/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/album/</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-73/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-73/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple, virtual product.]]></excerpt:encoded>
@@ -5102,10 +5102,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Single</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/single/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/single/</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-75/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-75/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple, virtual product.]]></excerpt:encoded>
@@ -5270,10 +5270,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>V-Neck T-Shirt - Red</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/v-neck-t-shirt/?attribute_pa_color=red</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/v-neck-t-shirt/?attribute_pa_color=red</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-76/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-76/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5448,10 +5448,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>V-Neck T-Shirt - Green</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/v-neck-t-shirt/?attribute_pa_color=green</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/v-neck-t-shirt/?attribute_pa_color=green</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-77/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-77/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5626,10 +5626,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>V-Neck T-Shirt - Blue</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/v-neck-t-shirt/?attribute_pa_color=blue</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/v-neck-t-shirt/?attribute_pa_color=blue</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-78/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-78/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5804,10 +5804,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie - Red, No</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=red&#038;attribute_logo=No</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=red&#038;attribute_logo=No</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-79/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-79/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5982,10 +5982,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie - Green, No</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=green&#038;attribute_logo=No</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=green&#038;attribute_logo=No</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-80/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-80/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6160,10 +6160,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie - Blue, No</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=No</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=No</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-81/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-81/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6338,10 +6338,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>T-Shirt with Logo</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/t-shirt-with-logo/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/t-shirt-with-logo/</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-83/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-83/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -6507,10 +6507,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Beanie with Logo</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/beanie-with-logo/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/beanie-with-logo/</link>
 		<pubDate>Mon, 07 May 2018 20:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-85/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-85/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a simple product.]]></excerpt:encoded>
@@ -6676,10 +6676,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Logo Collection</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/logo-collection/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/logo-collection/</link>
 		<pubDate>Mon, 07 May 2018 20:49:55 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-87/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-87/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is a grouped product.]]></excerpt:encoded>
@@ -6852,10 +6852,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>WordPress Pennant</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/wordpress-pennant/</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/wordpress-pennant/</link>
 		<pubDate>Mon, 07 May 2018 20:49:55 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-89/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-89/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></content:encoded>
 		<excerpt:encoded><![CDATA[This is an external product.]]></excerpt:encoded>
@@ -7028,10 +7028,10 @@ This text is the page content that can be added/edited by creating a new page, o
 	</item>
 	<item>
 		<title>Hoodie - Blue, Yes</title>
-		<link>http://zenith.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
+		<link>http://beyrouth.preset2.smartcatthemes.com/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
 		<pubDate>Mon, 07 May 2018 20:49:55 +0000</pubDate>
 		<dc:creator><![CDATA[smartcat]]></dc:creator>
-		<guid isPermaLink="false">http://zenith.preset2.smartcatthemes.com/product/import-placeholder-for-90/</guid>
+		<guid isPermaLink="false">http://beyrouth.preset2.smartcatthemes.com/product/import-placeholder-for-90/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>

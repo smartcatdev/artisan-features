@@ -1,14 +1,14 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class Image_List extends \AcidWidget{
     
     function __construct() {
         
         $args = array(
-            'id'            => 'zenith_image_list', 
-            'title'         => 'Zenith: Image List', 
+            'id'            => 'beyrouth_image_list',
+            'title'         => 'Beyrouth: Image List',
             'description'   => 'A widget to output up to 4 images with optional links', 
             'output_file'   => get_plugin_path( 'inc/widgets/Image_List/Image_List_View.php' ), 
             'widget_title'  => false, 
@@ -51,14 +51,14 @@ class Image_List extends \AcidWidget{
                 'id'             => 'text_align',
                 'default'        => 'center',
                 'type'           => 'select',
-                'options'       => \zenith\alignment_options()
+                'options'       => \beyrouth\alignment_options()
             ),
             'text_align_content' => array(
                 'label'          => 'Text Align - Image Content',
                 'id'             => 'text_align_content',
                 'default'        => 'left',
                 'type'           => 'select',
-                'options'       => \zenith\alignment_options()
+                'options'       => \beyrouth\alignment_options()
             ),
             'drop_shadow' => array (
                 'label'          => 'Include a shadow at image edges?',
@@ -107,7 +107,7 @@ class Image_List extends \AcidWidget{
         endfor;
         
         parent::__construct( $args, $fields, array(
-            'zenith-image-list' => get_plugin_url( 'inc/widgets/Image_List/assets/image-list.css' )
+            'beyrouth-image-list' => get_plugin_url( 'inc/widgets/Image_List/assets/image-list.css' )
         ) );
         
     }
@@ -115,6 +115,6 @@ class Image_List extends \AcidWidget{
 }
 
 function register_image_list_widget() {
-    register_widget( 'zenith\Image_List' );
+    register_widget( 'beyrouth\Image_List' );
 }
-add_action( 'widgets_init', 'zenith\register_image_list_widget' );
+add_action( 'widgets_init', 'beyrouth\register_image_list_widget' );

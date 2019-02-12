@@ -1,14 +1,14 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class Icon_CTA extends \AcidWidget{
     
     function __construct() {
         
         $args = array(
-            'id'            => 'zenith_icon_cta',
-            'title'         => 'Zenith: Icon CTA',
+            'id'            => 'beyrouth_icon_cta',
+            'title'         => 'Beyrouth: Icon CTA',
             'description'   => 'Output a single featured icon and text, in various ways', 
             'output_file'   => get_plugin_path( 'inc/widgets/Icon_CTA/Icon_CTA_View.php' ),
             'widget_title'  => false, 
@@ -157,7 +157,7 @@ class Icon_CTA extends \AcidWidget{
        );
         
         parent::__construct( $args, $fields, array(
-            'zenith-icon-cta' => get_plugin_url( 'inc/widgets/Icon_CTA/assets/icon-cta.css' )
+            'beyrouth-icon-cta' => get_plugin_url( 'inc/widgets/Icon_CTA/assets/icon-cta.css' )
         ) );
         
     }
@@ -166,7 +166,7 @@ class Icon_CTA extends \AcidWidget{
 }
 
 function register_icon_cta() {
-    register_widget( 'zenith\Icon_CTA' );
+    register_widget( 'beyrouth\Icon_CTA' );
 }
 
-add_action( 'widgets_init', 'zenith\register_icon_cta' );
+add_action( 'widgets_init', 'beyrouth\register_icon_cta' );

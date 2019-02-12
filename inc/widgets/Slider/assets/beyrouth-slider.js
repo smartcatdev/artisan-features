@@ -2,7 +2,7 @@ jQuery(document).ready(function ($) {
 
     $.each( slider_widget_instances, function( index, value ) {
 
-        $('.zenith-module .slider.instance-' + value.slider_id ).slick({
+        $('.beyrouth-module .slider.instance-' + value.slider_id ).slick({
             dots: value.slider_dots,
             arrows: value.slider_arrows,
             pauseOnHover: value.slider_pause_hover,

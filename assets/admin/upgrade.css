@@ -2,7 +2,7 @@
     color: #ed1558;
 }
 
-div#zenith-docs-content {
+div#beyrouth-docs-content {
     background: white;
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
     padding: 30px;
@@ -13,7 +13,7 @@ div#zenith-docs-content {
     font-family: Lato;
 }
 
-div#zenith-docs-content p {
+div#beyrouth-docs-content p {
     font-weight: 300;
     line-height: normal;
     font-size: 18px;
@@ -46,10 +46,10 @@ div#zenith-docs-content p {
 }
 
 @media (max-width:1199px) {
-    div#zenith-docs-content {
+    div#beyrouth-docs-content {
         font-size: 16px;
     }
-    div#zenith-docs-content p {
+    div#beyrouth-docs-content p {
         font-size: 16px;
     }
 }
@@ -98,7 +98,7 @@ div#zenith-docs-content p {
     /*justify-self: right;*/
 }
 
-div#zenith-docs-content p {
+div#beyrouth-docs-content p {
     font-weight: 300;
     line-height: normal;
     font-size: 18px;
@@ -108,7 +108,7 @@ div#upgrade-presets-loop {
     margin-bottom: 30px;
 }
 
-div#zenith-upgrade-prompt .get-button {
+div#beyrouth-upgrade-prompt .get-button {
     height: 30px;
     line-height: 30px;
     padding: 0 30px;
@@ -118,7 +118,7 @@ div#zenith-upgrade-prompt .get-button {
 
 @media (max-width:1199px) {
 
-    div#zenith-upgrade-prompt .get-button {
+    div#beyrouth-upgrade-prompt .get-button {
         float: none;
         display: block;
         margin-top: 15px;
@@ -190,7 +190,7 @@ div#pro-features {
     }
 }
 
-img.zenith-pro-logo {
+img.beyrouth-pro-logo {
     height: 41px;
 }
 

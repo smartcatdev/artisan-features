@@ -34,9 +34,7 @@ function acid_register_html_editor() {
         }
 
         private function filter_editor_setting_link() {
-            add_filter( 'the_editor', function( $output ) {
-                return preg_replace( '/<textarea/', '<textarea ' . $this->get_link(), $output, 1 );
-            } );
+            add_filter( 'the_editor', array ( $this, 'edit_editor_setting_link' ) ); 
         }
 
         public function print_styles() {
@@ -47,6 +45,12 @@ function acid_register_html_editor() {
             </style>
 
             <?php
+        }
+        
+        public function edit_editor_setting_link( $output ) {
+            
+            return preg_replace( '/<textarea/', '<textarea ' . $this->get_link(), $output, 1 );
+            
         }
 
     }

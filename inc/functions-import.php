@@ -1,12 +1,12 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
-add_filter( 'pt-ocdi/import_files', 'zenith\import_files' );
+add_filter( 'pt-ocdi/import_files', 'beyrouth\import_files' );
 
-add_action( 'pt-ocdi/after_import', 'zenith\after_import_setup' );
+add_action( 'pt-ocdi/after_import', 'beyrouth\after_import_setup' );
 
-add_filter( 'pt-ocdi/plugin_page_setup', 'zenith\import_page_title' );
+add_filter( 'pt-ocdi/plugin_page_setup', 'beyrouth\import_page_title' );
 
 add_filter( 'pt-ocdi/regenerate_thumbnails_in_content_import', '__return_false' );
 
@@ -16,38 +16,38 @@ function import_files() {
 
     $free_presets = array(
         array (
-            'import_file_name' => 'Zenith Standard',
+            'import_file_name' => 'Beyrouth Standard',
             'categories' => array ( 'Free' ),
             'import_file_url' => get_plugin_url( 'presets/preset1/content.xml' ),
             'import_widget_file_url' => get_plugin_url( 'presets/preset1/widgets.wie' ),
             'import_customizer_file_url' => get_plugin_url( 'presets/preset1/customizer.dat' ),
             'import_preview_image_url' => 'https://i.imgur.com/ekT5pGp.jpg',
-            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'zenith' ),
-            'preview_url' => 'http://zenith.preset1.smartcatthemes.com/',
+            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'beyrouth' ),
+            'preview_url' => 'http://beyrouth.preset1.smartcatthemes.com/',
         ),
         array (
-            'import_file_name' => 'Zenith Startup',
+            'import_file_name' => 'Beyrouth Startup',
             'categories' => array ( 'Free' ),
             'import_file_url' => get_plugin_url( 'presets/preset2/content.xml' ),
             'import_widget_file_url' => get_plugin_url( 'presets/preset2/widgets.wie' ),
             'import_customizer_file_url' => get_plugin_url( 'presets/preset2/customizer.dat' ),
             'import_preview_image_url' => 'https://i.imgur.com/Q21l2Tg.jpg',
-            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'zenith' ),
-            'preview_url' => 'http://zenith.preset2.smartcatthemes.com/',
+            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'beyrouth' ),
+            'preview_url' => 'http://beyrouth.preset2.smartcatthemes.com/',
         ),
         array (
-            'import_file_name' => 'Zenith Marketing',
+            'import_file_name' => 'Beyrouth Marketing',
             'categories' => array ( 'Free' ),
             'import_file_url' => get_plugin_url( 'presets/preset3/content.xml' ),
             'import_widget_file_url' => get_plugin_url( 'presets/preset3/widgets.wie' ),
             'import_customizer_file_url' => get_plugin_url( 'presets/preset3/customizer.dat' ),
             'import_preview_image_url' => 'https://i.imgur.com/qITjPXT.jpg',
-            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'zenith' ),
-            'preview_url' => 'http://zenith.preset3.smartcatthemes.com/',
+            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'beyrouth' ),
+            'preview_url' => 'http://beyrouth.preset3.smartcatthemes.com/',
         ),
     );
     
-    return apply_filters( 'zenith_presets', $free_presets );
+    return apply_filters( 'beyrouth_presets', $free_presets );
     
 }
 
@@ -55,34 +55,34 @@ function pro_import_files(){
     
     return array(
         array (
-            'import_file_name' => 'Zenith Agency',
+            'import_file_name' => 'Beyrouth Agency',
             'categories' => array ( 'Pro' ),
             'import_file_url' => get_plugin_url( 'presets/preset5/content.xml' ),
             'import_widget_file_url' => get_plugin_url( 'presets/preset5/widgets.wie' ),
             'import_customizer_file_url' => get_plugin_url( 'presets/preset5/customizer.dat' ),
             'import_preview_image_url' => 'https://i.imgur.com/nJHSD5W.jpg',
-            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'zenith' ),
-            'preview_url' => 'http://zenith.pro1.smartcatthemes.com/',
+            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'beyrouth' ),
+            'preview_url' => 'http://beyrouth.pro1.smartcatthemes.com/',
         ),
         array (
-            'import_file_name' => 'Zenith Product',
+            'import_file_name' => 'Beyrouth Product',
             'categories' => array ( 'Pro' ),
             'import_file_url' => get_plugin_url( 'presets/preset4/content.xml' ),
             'import_widget_file_url' => get_plugin_url( 'presets/preset4/widgets.wie' ),
             'import_customizer_file_url' => get_plugin_url( 'presets/preset4/customizer.dat' ),
             'import_preview_image_url' => 'https://i.imgur.com/289U0DN.jpg',
-            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'zenith' ),
-            'preview_url' => 'http://zenith.pro.smartcatthemes.com/',
+            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'beyrouth' ),
+            'preview_url' => 'http://beyrouth.pro.smartcatthemes.com/',
         ),
         array (
-            'import_file_name' => 'Zenith Business',
+            'import_file_name' => 'Beyrouth Business',
             'categories' => array ( 'Pro' ),
             'import_file_url' => get_plugin_url( 'presets/preset6/content.xml' ),
             'import_widget_file_url' => get_plugin_url( 'presets/preset6/widgets.wie' ),
             'import_customizer_file_url' => get_plugin_url( 'presets/preset6/customizer.dat' ),
             'import_preview_image_url' => 'https://i.imgur.com/yuPJhxg.jpg',
-            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'zenith' ),
-            'preview_url' => 'http://zenith.pro2.smartcatthemes.com/',
+            'import_notice' => __( 'After you import this demo, you will have to setup the slider separately.', 'beyrouth' ),
+            'preview_url' => 'http://beyrouth.pro2.smartcatthemes.com/',
         ),
 
     );
@@ -148,7 +148,7 @@ function after_import_setup( $selected_import ) {
 
 function import_page_title( $title ) {
     
-    $title['menu_title'] = esc_html__( 'Theme Presets' , 'zenith' );
+    $title['menu_title'] = esc_html__( 'Theme Presets' , 'beyrouth' );
     
     return $title;
 }

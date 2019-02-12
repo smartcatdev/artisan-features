@@ -1,6 +1,6 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class Slider_Widget extends \WP_Widget {
 
@@ -9,10 +9,10 @@ class Slider_Widget extends \WP_Widget {
     public function __construct() {
 
         parent::__construct(
-            'zenith_slider',
-            __( 'Zenith: Slider', 'zenith' ),
+            'beyrouth_slider',
+            __( 'Beyrouth: Slider', 'beyrouth' ),
             array(
-                'description' => __( 'A re-usable & customizable slider widget.', 'zenith' ),
+                'description' => __( 'A re-usable & customizable slider widget.', 'beyrouth' ),
             )
         );
         
@@ -23,8 +23,8 @@ class Slider_Widget extends \WP_Widget {
         $widget_id = $args['widget_id'];
         
         add_action( 'wp_footer', array( $this, 'localize_options' ) );
-        wp_enqueue_style( 'zenith-module-slider', get_plugin_url() . 'inc/widgets/Slider/assets/zenith-slider.css', null, ZENITH_MODULES_VERSION );
-        wp_enqueue_script( 'zenith-module-slider', get_plugin_url() . 'inc/widgets/Slider/assets/zenith-slider.js', array( 'jquery' ), ZENITH_MODULES_VERSION );
+        wp_enqueue_style( 'beyrouth-module-slider', get_plugin_url() . 'inc/widgets/Slider/assets/beyrouth-slider.css', null, BEYROUTH_MODULES_VERSION );
+        wp_enqueue_script( 'beyrouth-module-slider', get_plugin_url() . 'inc/widgets/Slider/assets/beyrouth-slider.js', array( 'jquery' ), BEYROUTH_MODULES_VERSION );
         
         $slider_instance_settings = array(
             'slider_id'                 => $widget_id,
@@ -65,7 +65,7 @@ class Slider_Widget extends \WP_Widget {
             'slider_trans_speed'        => 500,
         );
 
-        for ( $slide = 1; $slide < apply_filters( 'zenith_slide_count', 3 ); $slide++ ) : 
+        for ( $slide = 1; $slide < apply_filters( 'beyrouth_slide_count', 3 ); $slide++ ) :
             $defaults['slide_image_' . $slide]  =  '';
             $defaults['slide_pre_title_' . $slide]  =  '';
             $defaults['slide_title_' . $slide]  =  '';
@@ -96,7 +96,7 @@ class Slider_Widget extends \WP_Widget {
         $slider_pause_hover         = !empty( $instance['slider_pause_hover'] ) ? true : false;
         $slider_trans_speed         = !empty( $instance['slider_trans_speed'] ) ? $instance['slider_trans_speed'] : 500;
         
-        for ( $slide = 1; $slide < apply_filters( 'zenith_slide_count', 3 ); $slide++ ) : 
+        for ( $slide = 1; $slide < apply_filters( 'beyrouth_slide_count', 3 ); $slide++ ) :
             
             $actual_slides[$slide] = array (
                 'image'             => !empty( $instance['slide_image_' . $slide] ) ? $instance['slide_image_' . $slide] : '',
@@ -115,12 +115,12 @@ class Slider_Widget extends \WP_Widget {
          * ---------------------------------------------------------------------
          */
 
-        echo '<h2>' . __( 'General Settings', 'zenith' ) . '</h2>';
+        echo '<h2>' . __( 'General Settings', 'beyrouth' ) . '</h2>';
         
         // Slider Visibility (Toggle)
         
-        echo '<label class="zenith-control-title">';
-        echo '  <span>' . __( 'Slider Visibility', 'zenith' ) . '</span>';
+        echo '<label class="beyrouth-control-title">';
+        echo '  <span>' . __( 'Slider Visibility', 'beyrouth' ) . '</span>';
         echo '</label>';
         echo '<div class="toggle-flex">';
         echo '  <div class="flex-inner-small">';
@@ -131,45 +131,45 @@ class Slider_Widget extends \WP_Widget {
         echo '      </label>';
         echo '  </div>';
         echo '  <div class="flex-inner-wide">';
-        echo '      <div class="description customize-control-description">' . __( 'Use this to hide the slider without needing to remove it', 'zenith' ) . '</div>';
+        echo '      <div class="description customize-control-description">' . __( 'Use this to hide the slider without needing to remove it', 'beyrouth' ) . '</div>';
         echo '  </div>';
         echo '</div>';
         
         // Slider Aspect Ratio (Radio Toggle)
         
-        echo '<label class="zenith-control-title">';
-        echo '  <span>' . __( 'Slider Aspect Ratio', 'zenith' ) . '</span>';
+        echo '<label class="beyrouth-control-title">';
+        echo '  <span>' . __( 'Slider Aspect Ratio', 'beyrouth' ) . '</span>';
         echo '</label>';
-        echo '<div class="zenith-switch-field">';
-        echo '  <div class="switch-title description customize-control-description">' . __( 'Set the aspect ratio (Width:Height) for the slider container to maintain as the browser width scales', 'zenith' ) . '</div>';
+        echo '<div class="beyrouth-switch-field">';
+        echo '  <div class="switch-title description customize-control-description">' . __( 'Set the aspect ratio (Width:Height) for the slider container to maintain as the browser width scales', 'beyrouth' ) . '</div>';
         
         echo '      <div class="choice-wrap">';
         echo '          <input name="' . esc_attr( $this->get_field_name( 'slider_height_style' ) ) . '" type="radio" id="1' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '" value="' . 100 . '"' . checked( $slider_height_style, 100, false ) . ' />';
-        echo '          <label for="1' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '1:1 (Square)', 'zenith' ) . '</label>';
+        echo '          <label for="1' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '1:1 (Square)', 'beyrouth' ) . '</label>';
         echo '      </div>';
         echo '      <div class="clear"></div>';
         
         echo '      <div class="choice-wrap">';
         echo '          <input name="' . esc_attr( $this->get_field_name( 'slider_height_style' ) ) . '" type="radio" id="2' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '" value="' . 75 . '"' . checked( $slider_height_style, 75, false ) . ' />';
-        echo '          <label for="2' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '4:3 (TV)', 'zenith' ) . '</label>';
+        echo '          <label for="2' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '4:3 (TV)', 'beyrouth' ) . '</label>';
         echo '      </div>';
         echo '      <div class="clear"></div>';
         
         echo '      <div class="choice-wrap">';
         echo '          <input name="' . esc_attr( $this->get_field_name( 'slider_height_style' ) ) . '" type="radio" id="3' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '" value="' . 56 . '"' . checked( $slider_height_style, 56, false ) . ' />';
-        echo '          <label for="3' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '16:9 (Cinema)', 'zenith' ) . '</label>';
+        echo '          <label for="3' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '16:9 (Cinema)', 'beyrouth' ) . '</label>';
         echo '      </div>';
         echo '      <div class="clear"></div>';
         
         echo '      <div class="choice-wrap">';
         echo '          <input name="' . esc_attr( $this->get_field_name( 'slider_height_style' ) ) . '" type="radio" id="4' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '" value="' . 42 . '"' . checked( $slider_height_style, 42, false ) . ' />';
-        echo '          <label for="4' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '21:9 (Widescreen)', 'zenith' ) . '</label>';
+        echo '          <label for="4' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( '21:9 (Widescreen)', 'beyrouth' ) . '</label>';
         echo '      </div>';
         echo '      <div class="clear"></div>';
 
         echo '      <div class="choice-wrap">';
         echo '          <input name="' . esc_attr( $this->get_field_name( 'slider_height_style' ) ) . '" type="radio" id="5' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '" value="' . 'fixed' . '"' . checked( $slider_height_style, 'fixed', false ) . ' />';
-        echo '          <label for="5' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( 'Fixed Pixel Height', 'zenith' ) . '</label>';
+        echo '          <label for="5' . esc_attr( $this->get_field_id( 'slider_height_style' ) ) . '">' . __( 'Fixed Pixel Height', 'beyrouth' ) . '</label>';
         echo '      </div>';
         
         echo '</div>';
@@ -179,21 +179,21 @@ class Slider_Widget extends \WP_Widget {
         // Slider Height Desktop (Number)
         
         echo '<p>';
-        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_height' ) ) . '" class="zenith-control-title ' . 'slider_height' . '_label">' . __( 'Desktop - Fixed Height (Must be enabled above)', 'zenith' ) . '</label>';
+        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_height' ) ) . '" class="beyrouth-control-title ' . 'slider_height' . '_label">' . __( 'Desktop - Fixed Height (Must be enabled above)', 'beyrouth' ) . '</label>';
         echo '	<input type="number" id="' . esc_attr( $this->get_field_id( 'slider_height' ) ) . '" name="' . esc_attr( $this->get_field_name( 'slider_height' ) ) . '" class="widefat" min="200" value="' . esc_attr( $slider_height ) . '">';
         echo '</p>';
 
         // Slider Height Mobile (Number)
         
         echo '<p>';
-        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_height_mobile' ) ) . '" class="zenith-control-title ' . 'slider_height_mobile' . '_label">' . __( 'Mobile - Fixed Height (Must be enabled above)', 'zenith' ) . '</label>';
+        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_height_mobile' ) ) . '" class="beyrouth-control-title ' . 'slider_height_mobile' . '_label">' . __( 'Mobile - Fixed Height (Must be enabled above)', 'beyrouth' ) . '</label>';
         echo '	<input type="number" id="' . esc_attr( $this->get_field_id( 'slider_height_mobile' ) ) . '" name="' . esc_attr( $this->get_field_name( 'slider_height_mobile' ) ) . '" class="widefat" min="150" value="' . esc_attr( $slider_height_mobile ) . '">';
         echo '</p>';
         
         // Slider Fade (Toggle)
         
-        echo '<label class="zenith-control-title">';
-        echo '  <span>' . __( 'Use Fade Transition?', 'zenith' ) . '</span>';
+        echo '<label class="beyrouth-control-title">';
+        echo '  <span>' . __( 'Use Fade Transition?', 'beyrouth' ) . '</span>';
         echo '</label>';
         echo '<div class="toggle-flex">';
         echo '  <div class="flex-inner-small">';
@@ -204,25 +204,25 @@ class Slider_Widget extends \WP_Widget {
         echo '      </label>';
         echo '  </div>';
         echo '  <div class="flex-inner-wide">';
-        echo '      <div class="description customize-control-description">' . __( 'Set whether to use the fade transition effect instead of the carousel effect', 'zenith' ) . '</div>';
+        echo '      <div class="description customize-control-description">' . __( 'Set whether to use the fade transition effect instead of the carousel effect', 'beyrouth' ) . '</div>';
         echo '  </div>';
         echo '</div>';
         
         // Slider Transition Speed (Number)
         
         echo '<p>';
-        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_trans_speed' ) ) . '" class="zenith-control-title ' . 'slider_trans_speed' . '_label">' . __( 'Transition Duration (Milliseconds)', 'zenith' ) . '</label>';
+        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_trans_speed' ) ) . '" class="beyrouth-control-title ' . 'slider_trans_speed' . '_label">' . __( 'Transition Duration (Milliseconds)', 'beyrouth' ) . '</label>';
         echo '	<input type="number" id="' . esc_attr( $this->get_field_id( 'slider_trans_speed' ) ) . '" name="' . esc_attr( $this->get_field_name( 'slider_trans_speed' ) ) . '" class="widefat" value="' . esc_attr( $slider_trans_speed ) . '">';
         echo '</p>';
         
         echo '<hr class="space-line">';
         
-        echo '<h2>' . __( 'Autoplay', 'zenith' ) . '</h2>';
+        echo '<h2>' . __( 'Autoplay', 'beyrouth' ) . '</h2>';
         
         // Autoplay (Toggle)
         
-        echo '<label class="zenith-control-title">';
-        echo '  <span>' . __( 'Autoplay Through Slides?', 'zenith' ) . '</span>';
+        echo '<label class="beyrouth-control-title">';
+        echo '  <span>' . __( 'Autoplay Through Slides?', 'beyrouth' ) . '</span>';
         echo '</label>';
         echo '<div class="toggle-flex">';
         echo '  <div class="flex-inner-small">';
@@ -233,14 +233,14 @@ class Slider_Widget extends \WP_Widget {
         echo '      </label>';
         echo '  </div>';
         echo '  <div class="flex-inner-wide">';
-        echo '      <div class="description customize-control-description">' . __( 'Set whether to automatically change slides on a timer', 'zenith' ) . '</div>';
+        echo '      <div class="description customize-control-description">' . __( 'Set whether to automatically change slides on a timer', 'beyrouth' ) . '</div>';
         echo '  </div>';
         echo '</div>';
         
         // Pause Autoplay on Hover (Toggle)
         
-        echo '<label class="zenith-control-title">';
-        echo '  <span>' . __( 'Pause Autoplay on Hover?', 'zenith' ) . '</span>';
+        echo '<label class="beyrouth-control-title">';
+        echo '  <span>' . __( 'Pause Autoplay on Hover?', 'beyrouth' ) . '</span>';
         echo '</label>';
         echo '<div class="toggle-flex">';
         echo '  <div class="flex-inner-small">';
@@ -251,25 +251,25 @@ class Slider_Widget extends \WP_Widget {
         echo '      </label>';
         echo '  </div>';
         echo '  <div class="flex-inner-wide">';
-        echo '      <div class="description customize-control-description">' . __( 'Set whether to use the fade transition effect instead of the carousel effect', 'zenith' ) . '</div>';
+        echo '      <div class="description customize-control-description">' . __( 'Set whether to use the fade transition effect instead of the carousel effect', 'beyrouth' ) . '</div>';
         echo '  </div>';
         echo '</div>';
         
         // Slider Autoplay Speed (Number)
         
         echo '<p>';
-        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_autoplay_speed' ) ) . '" class="zenith-control-title ' . 'slider_autoplay_speed' . '_label">' . __( 'Autoplay Timer (Milliseconds)', 'zenith' ) . '</label>';
+        echo '	<label for="' . esc_attr( $this->get_field_id( 'slider_autoplay_speed' ) ) . '" class="beyrouth-control-title ' . 'slider_autoplay_speed' . '_label">' . __( 'Autoplay Timer (Milliseconds)', 'beyrouth' ) . '</label>';
         echo '	<input type="number" id="' . esc_attr( $this->get_field_id( 'slider_autoplay_speed' ) ) . '" name="' . esc_attr( $this->get_field_name( 'slider_autoplay_speed' ) ) . '" class="widefat" value="' . esc_attr( $slider_autoplay_speed ) . '">';
         echo '</p>';
         
         echo '<hr class="space-line">';
         
-        echo '<h2>' . __( 'Navigation', 'zenith' ) . '</h2>';
+        echo '<h2>' . __( 'Navigation', 'beyrouth' ) . '</h2>';
         
         // Slider Arrows Nav (Toggle)
         
-        echo '<label class="zenith-control-title">';
-        echo '  <span>' . __( 'Show Navigation?', 'zenith' ) . '</span>';
+        echo '<label class="beyrouth-control-title">';
+        echo '  <span>' . __( 'Show Navigation?', 'beyrouth' ) . '</span>';
         echo '</label>';
         echo '<div class="toggle-flex">';
         echo '  <div class="flex-inner-small">';
@@ -280,14 +280,14 @@ class Slider_Widget extends \WP_Widget {
         echo '      </label>';
         echo '  </div>';
         echo '  <div class="flex-inner-wide">';
-        echo '      <div class="description customize-control-description">' . __( 'Set whether or not to display the arrow tabs at the left and right sides of the slider', 'zenith' ) . '</div>';
+        echo '      <div class="description customize-control-description">' . __( 'Set whether or not to display the arrow tabs at the left and right sides of the slider', 'beyrouth' ) . '</div>';
         echo '  </div>';
         echo '</div>';
         
         // Slider Dots Nav (Toggle)
         
-        echo '<label class="zenith-control-title">';
-        echo '  <span>' . __( 'Show Tabbed Pagination?', 'zenith' ) . '</span>';
+        echo '<label class="beyrouth-control-title">';
+        echo '  <span>' . __( 'Show Tabbed Pagination?', 'beyrouth' ) . '</span>';
         echo '</label>';
         echo '<div class="toggle-flex">';
         echo '  <div class="flex-inner-small">';
@@ -298,7 +298,7 @@ class Slider_Widget extends \WP_Widget {
         echo '      </label>';
         echo '  </div>';
         echo '  <div class="flex-inner-wide">';
-        echo '      <div class="description customize-control-description">' . __( 'Set whether or not to display the pagination tabs at the bottom of the slider', 'zenith' ) . '</div>';
+        echo '      <div class="description customize-control-description">' . __( 'Set whether or not to display the pagination tabs at the bottom of the slider', 'beyrouth' ) . '</div>';
         echo '  </div>';
         echo '</div>';
         
@@ -306,9 +306,9 @@ class Slider_Widget extends \WP_Widget {
         
         // Slides
         
-        echo '<h2>' . __( 'Slides', 'zenith' ) . '</h2>';
+        echo '<h2>' . __( 'Slides', 'beyrouth' ) . '</h2>';
         
-        for ( $slide = 1; $slide < apply_filters( 'zenith_slide_count', 3 ); $slide++ ) :
+        for ( $slide = 1; $slide < apply_filters( 'beyrouth_slide_count', 3 ); $slide++ ) :
             
             echo '<div class="slide-detail-wrap">';
         
@@ -317,45 +317,45 @@ class Slider_Widget extends \WP_Widget {
                 echo '<div class="slide-detail-inner">';
                 
                     // Image (URL)
-                    echo '  <p class="zenith-uploader">';
-                    echo '      <label for="' . esc_attr( $this->get_field_id( 'slide_image_' . $slide ) ) . '" class="zenith-control-title ' . 'slide_image_' . $slide . '_label">' . __( 'Image', 'zenith' ) . '</label>';
+                    echo '  <p class="beyrouth-uploader">';
+                    echo '      <label for="' . esc_attr( $this->get_field_id( 'slide_image_' . $slide ) ) . '" class="beyrouth-control-title ' . 'slide_image_' . $slide . '_label">' . __( 'Image', 'beyrouth' ) . '</label>';
                     echo '      <input type="text" id="' . esc_attr( $this->get_field_id( 'slide_image_' . $slide ) ) . '" name="' . esc_attr( $this->get_field_name( 'slide_image_' . $slide ) ) . '" class="widefat" value="' . esc_url( $actual_slides[$slide]['image'] ) . '">';
-                    echo '      <a href="#" class="button secondary zenith-upload">' . __( 'Upload', 'zenith' ) . '</a>';
+                    echo '      <a href="#" class="button secondary beyrouth-upload">' . __( 'Upload', 'beyrouth' ) . '</a>';
                     echo '  </p>';
                     
                     // Pre-Title (Text)
                     echo '<p>';
-                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_pre_title_' . $slide ) ) . '" class="zenith-control-title ' . 'slide_pre_title' . $slide . '_label">' . __( 'Pre-Title', 'zenith' ) . '</label>';
+                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_pre_title_' . $slide ) ) . '" class="beyrouth-control-title ' . 'slide_pre_title' . $slide . '_label">' . __( 'Pre-Title', 'beyrouth' ) . '</label>';
                     echo '  <input type="text" id="' . esc_attr( $this->get_field_id( 'slide_pre_title_' . $slide ) ) . '" name="' . esc_attr( $this->get_field_name( 'slide_pre_title_' . $slide ) ) . '" class="widefat" value="' . esc_attr( $actual_slides[$slide]['pre_title'] ) . '">';
                     echo '</p>';
 
                     // Title (Text)
                     echo '<p>';
-                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_title_' . $slide ) ) . '" class="zenith-control-title ' . 'slide_title' . $slide . '_label">' . __( 'Title', 'zenith' ) . '</label>';
+                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_title_' . $slide ) ) . '" class="beyrouth-control-title ' . 'slide_title' . $slide . '_label">' . __( 'Title', 'beyrouth' ) . '</label>';
                     echo '  <input type="text" id="' . esc_attr( $this->get_field_id( 'slide_title_' . $slide ) ) . '" name="' . esc_attr( $this->get_field_name( 'slide_title_' . $slide ) ) . '" class="widefat" value="' . esc_attr( $actual_slides[$slide]['title'] ) . '">';
                     echo '</p>';
 
                     // Caption (Text Area)
                     echo '<p>';
-                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_caption_' . $slide ) ) . '" class="zenith-control-title ' . 'slide_caption' . '_label">' . __( 'Caption', 'zenith' ) . '</label>';
+                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_caption_' . $slide ) ) . '" class="beyrouth-control-title ' . 'slide_caption' . '_label">' . __( 'Caption', 'beyrouth' ) . '</label>';
                     echo '  <textarea id="' . esc_attr( $this->get_field_id( 'slide_caption_' . $slide ) ) . '" name="' . esc_attr( $this->get_field_name( 'slide_caption_' . $slide ) ) . '" class="widefat">' . esc_html( $actual_slides[$slide]['caption'] ) . '</textarea>';
                     echo '</p>';
 
                     // Button Label (Text)
                     echo '<p>';
-                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_button_label_' . $slide ) ) . '" class="zenith-control-title ' . 'slide_button_label' . $slide . '_label">' . __( 'Button - Label', 'zenith' ) . '</label>';
+                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_button_label_' . $slide ) ) . '" class="beyrouth-control-title ' . 'slide_button_label' . $slide . '_label">' . __( 'Button - Label', 'beyrouth' ) . '</label>';
                     echo '  <input type="text" id="' . esc_attr( $this->get_field_id( 'slide_button_label_' . $slide ) ) . '" name="' . esc_attr( $this->get_field_name( 'slide_button_label_' . $slide ) ) . '" class="widefat" value="' . esc_attr( $actual_slides[$slide]['button_label'] ) . '">';
                     echo '</p>';
 
                     // Button URL (Text)
                     echo '<p>';
-                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_button_url_' . $slide ) ) . '" class="zenith-control-title ' . 'slide_button_url' . $slide . '_label">' . __( 'Button - URL', 'zenith' ) . '</label>';
+                    echo '  <label for="' . esc_attr( $this->get_field_id( 'slide_button_url_' . $slide ) ) . '" class="beyrouth-control-title ' . 'slide_button_url' . $slide . '_label">' . __( 'Button - URL', 'beyrouth' ) . '</label>';
                     echo '  <input type="text" id="' . esc_attr( $this->get_field_id( 'slide_button_url_' . $slide ) ) . '" name="' . esc_attr( $this->get_field_name( 'slide_button_url_' . $slide ) ) . '" class="widefat" value="' . esc_attr( $actual_slides[$slide]['button_url'] ) . '">';
                     echo '</p>';
                     
                     // Overlay Opacity (Decimal)
                     echo '<p>';
-                    echo '	<label for="' . esc_attr( $this->get_field_id( 'slide_overlay_opacity_' . $slide ) ) . '" class="zenith-control-title ' . 'slide_overlay_opacity' . '_label">' . __( 'Dark Tint Amount', 'zenith' ) . '</label>';
+                    echo '	<label for="' . esc_attr( $this->get_field_id( 'slide_overlay_opacity_' . $slide ) ) . '" class="beyrouth-control-title ' . 'slide_overlay_opacity' . '_label">' . __( 'Dark Tint Amount', 'beyrouth' ) . '</label>';
                     echo '	<input type="range" min="0.0" max="1.0" step=".05" id="' . esc_attr( $this->get_field_id( 'slide_overlay_opacity_' . $slide ) ) . '" name="' . esc_attr( $this->get_field_name( 'slide_overlay_opacity_' . $slide ) ) . '" class="widefat" value="' . esc_attr( $actual_slides[$slide]['overlay_opacity'] ) . '">';
                     echo '</p>';
             
@@ -385,7 +385,7 @@ class Slider_Widget extends \WP_Widget {
         $instance['slider_trans_speed']         =  ( !empty( $new_instance['slider_trans_speed'] ) ) ? intval( $new_instance['slider_trans_speed'] ) : '';
         
         
-        for ( $slide = 1; $slide < apply_filters( 'zenith_slide_count', 3 ); $slide++ ) : 
+        for ( $slide = 1; $slide < apply_filters( 'beyrouth_slide_count', 3 ); $slide++ ) :
             $instance['slide_image_' . $slide]              = ( !empty( $new_instance['slide_image_' . $slide] ) ) ? esc_url_raw( $new_instance['slide_image_' . $slide] ) : '';
             $instance['slide_pre_title_' . $slide]          = ( !empty( $new_instance['slide_pre_title_' . $slide] ) ) ? wp_strip_all_tags( $new_instance['slide_pre_title_' . $slide] ) : '';
             $instance['slide_title_' . $slide]              = ( !empty( $new_instance['slide_title_' . $slide] ) ) ? wp_strip_all_tags( $new_instance['slide_title_' . $slide] ) : '';
@@ -402,7 +402,7 @@ class Slider_Widget extends \WP_Widget {
     function localize_options(){
         
         if( !empty( self::$variables ) ) {
-            wp_localize_script( 'zenith-module-slider', 'slider_widget_instances', self::$variables );       
+            wp_localize_script( 'beyrouth-module-slider', 'slider_widget_instances', self::$variables );
         }
     
     }      
@@ -410,6 +410,6 @@ class Slider_Widget extends \WP_Widget {
 }
 
 function register_slider_widget() {
-    register_widget( '\zenith\Slider_Widget' );
+    register_widget( '\beyrouth\Slider_Widget' );
 }
-add_action( 'widgets_init', '\zenith\register_slider_widget' );
+add_action( 'widgets_init', '\beyrouth\register_slider_widget' );

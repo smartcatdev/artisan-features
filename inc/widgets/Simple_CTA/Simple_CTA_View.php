@@ -1,5 +1,5 @@
 <?php 
-namespace zenith;
+namespace beyrouth;
 /**
  * 
  * $args['widget_id'] provides the ID of the widget instance, useful for uniquely identifying the widget
@@ -26,7 +26,7 @@ $this->css['#'. $args['widget_id'] . ' h6'] = array(
 
 ?>
 
-<div class="zenith-module simple-cta" id="<?php echo esc_attr( $args['widget_id' ] ); ?>">
+<div class="beyrouth-module simple-cta" id="<?php echo esc_attr( $args['widget_id' ] ); ?>">
     
     <div class="container">
         

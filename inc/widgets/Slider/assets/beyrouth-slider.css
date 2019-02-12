@@ -56,12 +56,12 @@ ul.slick-dots li:hover button {
     background: rgba(255, 255, 255, .75);
 }
 
-.zenith-module .slider {
+.beyrouth-module .slider {
     background-color: #000;
     overflow: hidden;
 }
 
-.zenith-module .slider .slide {
+.beyrouth-module .slider .slide {
     width: 100%;
     background-position: 50%;
     background-size: cover;
@@ -70,7 +70,7 @@ ul.slick-dots li:hover button {
     -webkit-transition: all 0.1s ease-in-out;*/
 }
 
-.zenith-module .slider .slide > .slide-inner {
+.beyrouth-module .slider .slide > .slide-inner {
     display: -webkit-box; 
     display: -moz-box;
     display: -ms-flexbox;
@@ -83,24 +83,24 @@ ul.slick-dots li:hover button {
     -webkit-transition: all 0.1s ease-in-out;
 }
 
-.zenith-module .slider .slide-content {
+.beyrouth-module .slider .slide-content {
     padding: 0 30px;
 }
-.zenith-module .slider .slide-content .slide-title {
+.beyrouth-module .slider .slide-content .slide-title {
     margin: 0;
 }
 
-.zenith-module .slider .slide-content p {
+.beyrouth-module .slider .slide-content p {
     margin: 15px 0 0 0;
 }
 
-.zenith-module .slider .slide-content .pre-title,
-.zenith-module .slider .slide-content .slide-title,
-.zenith-module .slider .slide-content p {
+.beyrouth-module .slider .slide-content .pre-title,
+.beyrouth-module .slider .slide-content .slide-title,
+.beyrouth-module .slider .slide-content p {
     color: #fff;
 }
 
-.zenith-module .slider .slide-content a.button {
+.beyrouth-module .slider .slide-content a.button {
     margin-top: 20px;
     display: inline-block;
 }

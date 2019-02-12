@@ -1,8 +1,8 @@
-a.zenith-upload {
+a.beyrouth-upload {
     margin-top: 5px !important;
 }
 
-a.zenith-upload:active {
+a.beyrouth-upload:active {
     background: #eee;
     border-color: #999;
     box-shadow: inset 0 2px 5px -3px rgba(0,0,0,.5);
@@ -70,7 +70,7 @@ hr.space-line {
     margin: 20px 0 15px;
 }
 
-label.zenith-control-title {
+label.beyrouth-control-title {
     font-weight: 600;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -96,7 +96,7 @@ label.zenith-control-title {
     border-left: 5px solid #2195f3;
 }
 
-.zenith-switch-field input {
+.beyrouth-switch-field input {
     position: absolute !important;
     clip: rect(0, 0, 0, 0);
     height: 1px;
@@ -105,11 +105,11 @@ label.zenith-control-title {
     overflow: hidden;
 }
 
-.zenith-switch-field label {
+.beyrouth-switch-field label {
   float: left;
 }
 
-.zenith-switch-field label {
+.beyrouth-switch-field label {
     display: block;
     width: 100%;
     color: rgba(0, 0, 0, 0.5);
@@ -131,11 +131,11 @@ label.zenith-control-title {
     position: relative;
 }
 
-.zenith-switch-field label:hover {
+.beyrouth-switch-field label:hover {
         cursor: pointer;
 }
 
-.zenith-switch-field input:checked + label {
+.beyrouth-switch-field input:checked + label {
     background-color: #fdfdfd;
     border-left: 3px solid;
     border-right: 3px solid;
@@ -143,31 +143,31 @@ label.zenith-control-title {
     color: #2196F3;
 }
 
-.zenith-switch-field label:first-of-type {
+.beyrouth-switch-field label:first-of-type {
     border-radius: 4px 0 0 4px;
 }
 
-.zenith-switch-field label:last-of-type {
+.beyrouth-switch-field label:last-of-type {
     border-radius: 0 4px 4px 0;
 }
 
-.zenith-switch-field .choice-wrap {
+.beyrouth-switch-field .choice-wrap {
     position: relative;
     max-width: 100%;
     margin-bottom: 5px;
 }
 
-.zenith-switch-field .choice-wrap:first-of-type label {
+.beyrouth-switch-field .choice-wrap:first-of-type label {
     border-radius: 4px 4px 0 0 !important;
 }
 
-.zenith-switch-field .choice-wrap:last-of-type label {
+.beyrouth-switch-field .choice-wrap:last-of-type label {
     border-bottom: thin solid #b9b9b9;
     border-radius: 0 0 4px 4px !important;
 }
 
-.zenith-switch-field input + label:before, 
-.zenith-switch-field input + label:after { 
+.beyrouth-switch-field input + label:before,
+.beyrouth-switch-field input + label:after {
     content: "";
     position: absolute;
     width: 100%;
@@ -184,23 +184,23 @@ label.zenith-control-title {
     transition:  all 0.3s ease-in-out;
 }
 
-.zenith-switch-field input + label:before {
+.beyrouth-switch-field input + label:before {
     top: 0;
 }
 
-.zenith-switch-field input + label:after {
+.beyrouth-switch-field input + label:after {
     bottom: 0;
 }
 
-.zenith-switch-field input:checked + label:before, 
-.zenith-switch-field input:checked + label:after {
+.beyrouth-switch-field input:checked + label:before,
+.beyrouth-switch-field input:checked + label:after {
     visibility: visible;
     opacity: 1;
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
 }
 
-.zenith-switch-field input:checked + label {
+.beyrouth-switch-field input:checked + label {
     background-color: #fafafa;
 }
 
@@ -212,75 +212,75 @@ label.zenith-control-title {
     border-left: 5px solid #2195f3;
 }
 
-#available-widgets [class*=zenith_simple_cta] .widget-title:before{
+#available-widgets [class*=beyrouth_simple_cta] .widget-title:before{
     content: "\f506"; 
 }
-#available-widgets [class*=zenith_slider] .widget-title:before{
+#available-widgets [class*=beyrouth_slider] .widget-title:before{
     content: "\f169";
 }
-#available-widgets [class*=zenith_image_cta] .widget-title:before{
+#available-widgets [class*=beyrouth_image_cta] .widget-title:before{
     content: "\f128";
 }
-#available-widgets [class*=zenith_heading] .widget-title:before{
+#available-widgets [class*=beyrouth_heading] .widget-title:before{
     content: "\f215";
 }
-#available-widgets [class*=zenith_shortcode] .widget-title:before{
+#available-widgets [class*=beyrouth_shortcode] .widget-title:before{
     content: "\f475";
 }
-#available-widgets [class*=zenith_faq] .widget-title:before{
+#available-widgets [class*=beyrouth_faq] .widget-title:before{
     content: "\f223";
 }
 
-#available-widgets [class*=zenith_simple_cta] .widget-title:before,
-#available-widgets [class*=zenith_slider] .widget-title:before,
-#available-widgets [class*=zenith_heading] .widget-title:before,
-#available-widgets [class*=zenith_shortcode] .widget-title:before,
-#available-widgets [class*=zenith_image_cta] .widget-title:before,
-#available-widgets [class*=zenith_image_list] .widget-title:before,
-#available-widgets [class*=zenith_video_cta] .widget-title:before,
-#available-widgets [class*=zenith_contact] .widget-title:before,
-#available-widgets [class*=zenith_events] .widget-title:before,
-#available-widgets [class*=zenith_faq] .widget-title:before,
-#available-widgets [class*=zenith_featured_pages] .widget-title:before,
-#available-widgets [class*=zenith_featured_posts] .widget-title:before,
-#available-widgets [class*=zenith_features_grid] .widget-title:before,
-#available-widgets [class*=zenith_features_hero] .widget-title:before,
-#available-widgets [class*=zenith_hero_image_cta] .widget-title:before,
-#available-widgets [class*=zenith_hero_video_cta] .widget-title:before,
-#available-widgets [class*=zenith_icon_cta] .widget-title:before,
-#available-widgets [class*=zenith_image_grid] .widget-title:before,
-#available-widgets [class*=zenith_map] .widget-title:before,
-#available-widgets [class*=zenith_posts] .widget-title:before,
-#available-widgets [class*=zenith_pricing_table] .widget-title:before,
-#available-widgets [class*=zenith_services] .widget-title:before,
-#available-widgets [class*=zenith_testimonials] .widget-title:before {
+#available-widgets [class*=beyrouth_simple_cta] .widget-title:before,
+#available-widgets [class*=beyrouth_slider] .widget-title:before,
+#available-widgets [class*=beyrouth_heading] .widget-title:before,
+#available-widgets [class*=beyrouth_shortcode] .widget-title:before,
+#available-widgets [class*=beyrouth_image_cta] .widget-title:before,
+#available-widgets [class*=beyrouth_image_list] .widget-title:before,
+#available-widgets [class*=beyrouth_video_cta] .widget-title:before,
+#available-widgets [class*=beyrouth_contact] .widget-title:before,
+#available-widgets [class*=beyrouth_events] .widget-title:before,
+#available-widgets [class*=beyrouth_faq] .widget-title:before,
+#available-widgets [class*=beyrouth_featured_pages] .widget-title:before,
+#available-widgets [class*=beyrouth_featured_posts] .widget-title:before,
+#available-widgets [class*=beyrouth_features_grid] .widget-title:before,
+#available-widgets [class*=beyrouth_features_hero] .widget-title:before,
+#available-widgets [class*=beyrouth_hero_image_cta] .widget-title:before,
+#available-widgets [class*=beyrouth_hero_video_cta] .widget-title:before,
+#available-widgets [class*=beyrouth_icon_cta] .widget-title:before,
+#available-widgets [class*=beyrouth_image_grid] .widget-title:before,
+#available-widgets [class*=beyrouth_map] .widget-title:before,
+#available-widgets [class*=beyrouth_posts] .widget-title:before,
+#available-widgets [class*=beyrouth_pricing_table] .widget-title:before,
+#available-widgets [class*=beyrouth_services] .widget-title:before,
+#available-widgets [class*=beyrouth_testimonials] .widget-title:before {
     color: #2195f3;
 }
 
 
-#available-widgets [class*=zenith_simple_cta],
-#available-widgets [class*=zenith_image_cta],
-#available-widgets [class*=zenith_image_list],
-#available-widgets [class*=zenith_heading],
-#available-widgets [class*=zenith_video_cta],
-#available-widgets [class*=zenith_shortcode],
-#available-widgets [class*=zenith_contact],
-#available-widgets [class*=zenith_events],
-#available-widgets [class*=zenith_faq],
-#available-widgets [class*=zenith_featured_pages],
-#available-widgets [class*=zenith_featured_posts],
-#available-widgets [class*=zenith_features_grid],
-#available-widgets [class*=zenith_features_hero],
-#available-widgets [class*=zenith_hero_image_cta],
-#available-widgets [class*=zenith_hero_video_cta],
-#available-widgets [class*=zenith_icon_cta],
-#available-widgets [class*=zenith_image_grid],
-#available-widgets [class*=zenith_map],
-#available-widgets [class*=zenith_posts],
-#available-widgets [class*=zenith_pricing_table],
-#available-widgets [class*=zenith_services],
-#available-widgets [class*=zenith_testimonials],
-#available-widgets [class*=zenith_slider]{
+#available-widgets [class*=beyrouth_simple_cta],
+#available-widgets [class*=beyrouth_image_cta],
+#available-widgets [class*=beyrouth_image_list],
+#available-widgets [class*=beyrouth_heading],
+#available-widgets [class*=beyrouth_video_cta],
+#available-widgets [class*=beyrouth_shortcode],
+#available-widgets [class*=beyrouth_contact],
+#available-widgets [class*=beyrouth_events],
+#available-widgets [class*=beyrouth_faq],
+#available-widgets [class*=beyrouth_featured_pages],
+#available-widgets [class*=beyrouth_featured_posts],
+#available-widgets [class*=beyrouth_features_grid],
+#available-widgets [class*=beyrouth_features_hero],
+#available-widgets [class*=beyrouth_hero_image_cta],
+#available-widgets [class*=beyrouth_hero_video_cta],
+#available-widgets [class*=beyrouth_icon_cta],
+#available-widgets [class*=beyrouth_image_grid],
+#available-widgets [class*=beyrouth_map],
+#available-widgets [class*=beyrouth_posts],
+#available-widgets [class*=beyrouth_pricing_table],
+#available-widgets [class*=beyrouth_services],
+#available-widgets [class*=beyrouth_testimonials],
+#available-widgets [class*=beyrouth_slider]{
     background: #f3f3f5;
     border-left: 4px solid #f3f3f5;
 }

@@ -1,14 +1,14 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class SimpleCta extends \AcidWidget{
     
     function __construct() {
         
         $args = array(
-            'id'            => 'zenith_simple_cta', // 1. Edit the widget ID
-            'title'         => 'Zenith: Simple CTA', // 2. Edit the Widget Title
+            'id'            => 'beyrouth_simple_cta', // 1. Edit the widget ID
+            'title'         => 'Beyrouth: Simple CTA', // 2. Edit the Widget Title
             'description'   => 'Creates a simple horizontal call to action with title, subtitle and button', // 3. Edit the widget description
             'output_file'   => get_plugin_path( 'inc/widgets/SimpleCta/simple_cta_view.php' ) // 4. Set the location of the frontend widget display
         );
@@ -120,7 +120,7 @@ class SimpleCta extends \AcidWidget{
 }
 
 function register_simple_cta() {
-    register_widget( 'zenith\SimpleCta' );
+    register_widget( 'beyrouth\SimpleCta' );
 }
 
-add_action( 'widgets_init', 'zenith\register_simple_cta' );
+add_action( 'widgets_init', 'beyrouth\register_simple_cta' );

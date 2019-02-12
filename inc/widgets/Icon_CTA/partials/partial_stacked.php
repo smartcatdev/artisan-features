@@ -1,5 +1,5 @@
 <?php 
-namespace zenith;
+namespace beyrouth;
 ?>
 <div class="col-sm-12">
     

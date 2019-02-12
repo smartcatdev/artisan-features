@@ -9,11 +9,11 @@ jQuery(document).ready(function ($) {
         }
         
         $.ajax({
-            url:    zenith.ajaxUrl,
+            url:    beyrouth.ajaxUrl,
             method: 'POST',
             data : {
                 action  : 'reset_content',
-                nonce   : zenith.nonce
+                nonce   : beyrouth.nonce
             },
             success: function( response ) {
                 alert( 'Complete' )

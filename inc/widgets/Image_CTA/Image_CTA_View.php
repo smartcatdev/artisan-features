@@ -1,5 +1,5 @@
 <?php 
-namespace zenith;
+namespace beyrouth;
 
 
 $this->css['#' . $args['widget_id'] ] = array(
@@ -39,7 +39,7 @@ if( 'stacked' == $values['image_location'] ) {
 
 ?>
 
-<div class="zenith-module image-cta" id="<?php echo attr( $args['widget_id' ] ); ?>">
+<div class="beyrouth-module image-cta" id="<?php echo attr( $args['widget_id' ] ); ?>">
     
     <div class="container">
         

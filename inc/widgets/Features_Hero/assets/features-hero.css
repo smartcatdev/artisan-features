@@ -1,0 +1,115 @@
+@media (min-width:768px) {
+    .hero-flex-wrap {
+        display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+        display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+        display: -ms-flexbox;      /* TWEENER - IE 10 */
+        display: -webkit-flex;     /* NEW - Chrome */
+        display: flex;
+        align-items: center;
+    }
+
+    .hero-flex-wrap .hero-flex {
+        width: 50%;
+    }
+
+}
+
+.hero-flex-wrap .hero-flex.image {
+    text-align: center;
+}
+
+.beyrouth-module.features-hero h2.title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.beyrouth-module.features-hero h6.subtitle {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.beyrouth-module.features-hero {
+    margin: 0;
+    padding: 0;
+    background: none;
+    color: #f0f0f0;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.beyrouth-module.features-hero .pre-title {
+    text-transform: uppercase;
+/*    letter-spacing: .5em;*/
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.beyrouth-module.features-hero p.content {
+    margin-top: 30px;
+}
+
+.beyrouth-module.features-hero a.button {
+    margin: 20px 3px 5px 3px;
+}
+
+@media (max-width:767px) {
+    .beyrouth-module.features-hero .hero-inner {
+        padding: 100px 0 !important;
+    }
+    .beyrouth-module.features-hero .hero-inner,
+    .beyrouth-module.features-hero .hero-inner .hero-content {
+        text-align: center !important;
+    }
+    .beyrouth-module.features-hero a.button {
+        margin-top: 15px;
+    }
+    .beyrouth-module.features-hero a.button:nth-child(odd) {
+        margin-top: 5px;
+    }
+    .beyrouth-module.features-hero .features {
+        margin-top: 50px;
+    }
+    .beyrouth-module.features-hero .features {
+        display: block !important;
+    }
+}
+
+.beyrouth-module.features-hero .features {
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;
+    align-items: center;   
+}
+
+.beyrouth-module.features-hero .features > .feature-wrap {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.beyrouth-module.features-hero .features .feature {
+    padding: 15px;
+    text-align: center;
+}
+
+.beyrouth-module.features-hero .features .feature-icon {
+    font-size: 60px;
+}
+
+.beyrouth-module.features-hero .features .feature-label {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    margin-top: 15px;
+}
+
+.beyrouth-module.features-hero .template-stacked div.image {
+    margin-top: 30px;
+}
+
+@media (max-width:767px) {
+    .beyrouth-module.features-hero .features > .feature-wrap {
+        max-width: 100%;
+    }
+}

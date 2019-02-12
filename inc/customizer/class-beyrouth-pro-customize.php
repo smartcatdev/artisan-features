@@ -6,7 +6,7 @@
  * @since  1.0.0
  * @access public
  */
-final class Zenith_Pro_Customize {
+final class Beyrouth_Pro_Customize {
 
     /**
      * Returns the instance.
@@ -63,26 +63,26 @@ final class Zenith_Pro_Customize {
     public function sections( $manager ) {
 
         // Load custom sections.
-        require_once( \zenith\get_plugin_path() . 'inc/customizer/section-pro.php' );
+        require_once( \beyrouth\get_plugin_path() . 'inc/customizer/section-pro.php' );
 
         // Register custom section types.
-        $manager->register_section_type( 'Zenith_Pro_Customize_Section_Pro' );
+        $manager->register_section_type( 'Beyrouth_Pro_Customize_Section_Pro' );
 
         // Register sections.
         $manager->add_section(
-            new Zenith_Pro_Customize_Section_Pro(
-                $manager, 'zenith_pro', array (
-                    'title'         => esc_html__( 'Zenith Pro', 'zenith' ),
-                    'pro_text'      => esc_html__( 'View Demo', 'zenith' ),
-                    'pro_url'       => 'https://smartcatthemes.com/downloads/zenith/'
+            new Beyrouth_Pro_Customize_Section_Pro(
+                $manager, 'beyrouth_pro', array (
+                    'title'         => esc_html__( 'Beyrouth Pro', 'beyrouth' ),
+                    'pro_text'      => esc_html__( 'View Demo', 'beyrouth' ),
+                    'pro_url'       => 'https://smartcatthemes.com/downloads/beyrouth/'
                 )
             )
         );
         
-        $manager->get_section( 'zenith_pro' )->priority = 0;
+        $manager->get_section( 'beyrouth_pro' )->priority = 0;
     }
 
 }
 
 // Doing this customizer thang!
-Zenith_Pro_Customize::get_instance();
+Beyrouth_Pro_Customize::get_instance();

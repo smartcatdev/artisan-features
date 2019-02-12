@@ -1,6 +1,6 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 
 // Jumbotron
@@ -26,3 +26,9 @@ require_once get_plugin_path() . 'inc/widgets/Shortcode/Shortcode.php';
 
 // Image List
 require_once get_plugin_path() . 'inc/widgets/Image_List/Image_List.php';
+
+// Features Hero
+require_once get_plugin_path() . 'inc/widgets/Features_Hero/Features_Hero.php';
+
+// Posts
+require_once get_plugin_path() . 'inc/widgets/Posts/Posts.php';

@@ -1,11 +1,11 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 // Shortcode Registration ------------------------------------------------------
 // -----------------------------------------------------------------------------
 
-add_shortcode( 'zenith-icon', 'zenith\shortcode_fa_icon' );
+add_shortcode( 'beyrouth-icon', 'beyrouth\shortcode_fa_icon' );
 
 // Shortcode Definitions -------------------------------------------------------
 // -----------------------------------------------------------------------------

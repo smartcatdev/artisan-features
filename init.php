@@ -1,19 +1,19 @@
 <?php
 /**
- * Plugin Name: Zenith Features
+ * Plugin Name: Beyrouth Features
  * Author: Smartcat
- * Description: Advanced Widgets for Zenith theme.
+ * Description: Advanced Widgets for Beyrouth theme.
  * Version: 1.0.0
  * Author: Smartcat
  * Author URI: https://smartcatdesign.net/
  * License: GPL V2
- * Text Domain: zenith
+ * Text Domain: beyrouth
  * Domain Path: /languages 
  *
- * @package zenith
+ * @package beyrouth
  * @since 1.0.0
  */
-namespace zenith;
+namespace beyrouth;
 
 /**
  * Exit if accessed directly for security
@@ -25,7 +25,7 @@ if( !defined( 'ABSPATH' ) ) {
 /**
  * Constant Declarations
  */
-const ZENITH_MODULES_VERSION = '1.0.0';
+const BEYROUTH_MODULES_VERSION = '1.0.0';
 const BUILD_MIN_VERSION = '1.0.0';
 
 /**
@@ -48,12 +48,12 @@ function get_plugin_url( $url = '' ) {
 
 
 // initialize the plugin
-add_action( 'plugins_loaded', 'zenith\plugins_loaded', 99 );
+add_action( 'plugins_loaded', 'beyrouth\plugins_loaded', 99 );
 
 /**
- * Checks if Zenith is active as a parent or child theme
+ * Checks if Beyrouth is active as a parent or child theme
  */
-function zenith_flag() {
+function beyrouth_flag() {
     
     if ( function_exists( 'wp_get_theme' ) ) {
 
@@ -69,7 +69,7 @@ function zenith_flag() {
 
     }
     
-    if( $active_theme_name == 'zenith' || $parent_theme_name == 'zenith' ) {
+    if( $active_theme_name == 'beyrouth' || $parent_theme_name == 'beyrouth' ) {
         return true;
     }
     
@@ -82,9 +82,9 @@ function zenith_flag() {
  */
 function after_setup_theme() {
 
-    if( ZENITH_VERSION < BUILD_MIN_VERSION ) {
+    if( BEYROUTH_VERSION < BUILD_MIN_VERSION ) {
 
-        $message = 'Please update your Zenith theme. This is a required update. <a href="' . esc_url( admin_url( 'themes.php' ) ) . '">Click here</a> then click Update on the Zenith Theme Icon';
+        $message = 'Please update your Beyrouth theme. This is a required update. <a href="' . esc_url( admin_url( 'themes.php' ) ) . '">Click here</a> then click Update on the Beyrouth Theme Icon';
 
         make_admin_notice( __( $message, 'error', false ) );
 
@@ -98,26 +98,28 @@ function after_setup_theme() {
     require get_plugin_path() . 'inc/functions-general.php';
     require get_plugin_path() . 'inc/functions-metabox.php';
     require get_plugin_path() . 'inc/functions-shortcodes.php';
-    if ( !class_exists( 'AcidConfig' ) ) { require get_plugin_path( '/inc/lib/Acid/acid.php' ); }
+    require get_plugin_path() . 'inc/functions-customizer.php';
     require get_plugin_path() . 'inc/functions-widgets.php';
     require get_plugin_path() . 'inc/functions-enqueue.php';
     require get_plugin_path() . 'inc/functions-css.php';
     
     require get_plugin_path() . 'inc/functions-tgmpa.php';
     
-    if ( !function_exists( '\zenith_pro\init' ) ) {
+    if ( !function_exists( '\beyrouth_pro\init' ) ) {
         require get_plugin_path() . 'inc/functions-updates.php';
-        require get_plugin_path() . 'inc/customizer/class-zenith-pro-customize.php';
+        require get_plugin_path() . 'inc/customizer/class-beyrouth-pro-customize.php';
     }
-    
-    do_action( 'zenith_after_setup_theme' );
-    
+
+    require get_plugin_path() . 'inc/functions-demo-content.php';
+
+    do_action( 'beyrouth_after_setup_theme' );
+
 }
 
 function plugins_loaded() {
     
     
-    if( ! zenith_flag() ) {
+    if( ! beyrouth_flag() ) {
         return false;
     }
     
@@ -127,9 +129,9 @@ function plugins_loaded() {
     
     require get_plugin_path() . 'inc/functions-import.php';
     
-    do_action( 'zenith_plugins_loaded' );
+    do_action( 'beyrouth_plugins_loaded' );
     
-    add_action( 'after_setup_theme', 'zenith\after_setup_theme', 99 );  
+    add_action( 'after_setup_theme', 'beyrouth\after_setup_theme', 99 );
     
 }
 

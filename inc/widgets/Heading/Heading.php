@@ -1,14 +1,14 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class Heading extends \AcidWidget{
     
     function __construct() {
         
         $args = array(
-            'id'            => 'zenith_heading', // 1. Edit the widget ID
-            'title'         => 'Zenith: Heading', // 2. Edit the Widget Title
+            'id'            => 'beyrouth_heading', // 1. Edit the widget ID
+            'title'         => 'Beyrouth: Heading', // 2. Edit the Widget Title
             'description'   => 'A widget to add a heading', // 3. Edit the widget description
             'output_file'   => get_plugin_path( 'inc/widgets/Heading/Heading_View.php' ), // 4. Set the location of the frontend widget display
             'widget_title'  => false, // 5. Set to True if you want the built in Widget Title to be used
@@ -83,7 +83,7 @@ class Heading extends \AcidWidget{
         );
        
         parent::__construct( $args, $fields, array(
-            'zenith-heading' => get_plugin_url( 'inc/widgets/Heading/assets/heading.css' )
+            'beyrouth-heading' => get_plugin_url( 'inc/widgets/Heading/assets/heading.css' )
         ) );
         
     }
@@ -92,7 +92,7 @@ class Heading extends \AcidWidget{
 }
 
 function register_heading_widget() {
-    register_widget( 'zenith\Heading' );
+    register_widget( 'beyrouth\Heading' );
 }
 
-add_action( 'widgets_init', 'zenith\register_heading_widget' );
+add_action( 'widgets_init', 'beyrouth\register_heading_widget' );

@@ -1,5 +1,5 @@
 <?php 
-namespace zenith;
+namespace beyrouth;
 /**
  * 
  * $args['widget_id'] provides the ID of the widget instance, useful for uniquely identifying the widget
@@ -17,7 +17,7 @@ $this->css['#' . $args['widget_id'] ] = array(
 
 ?>
 
-<div class="zenith-module shortcode" id="<?php echo esc_attr( $args['widget_id' ] ); ?>">
+<div class="beyrouth-module shortcode" id="<?php echo esc_attr( $args['widget_id' ] ); ?>">
     
     <?php if ( !empty( $values['container_wrap'] ) && $values['container_wrap'] == 'on' ) : ?>
     

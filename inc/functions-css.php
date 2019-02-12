@@ -1,6 +1,6 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 /**
  * Enqueue scripts and styles.
@@ -15,4 +15,4 @@ function wp_head_styles() { ?>
     
 <?php
 }
-add_action( 'wp_head', '\zenith\wp_head_styles' );
+add_action( 'wp_head', '\beyrouth\wp_head_styles' );

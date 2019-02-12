@@ -1,17 +1,17 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 
-//add_action( 'admin_init', 'zenith\pro_announce' );
+//add_action( 'admin_init', 'beyrouth\pro_announce' );
 
 
 function pro_announce() {
     
-    if( ! get_option( 'zenith_pro_announce') ) {
+    if( ! get_option( 'beyrouth_pro_announce') ) {
         
-        update_option( 'zenith_pro_announce', true );
-        wp_safe_redirect( admin_url( 'themes.php?page=zenith-theme-upgrade' ) );
+        update_option( 'beyrouth_pro_announce', true );
+        wp_safe_redirect( admin_url( 'themes.php?page=beyrouth-theme-upgrade' ) );
         exit();
     }
     

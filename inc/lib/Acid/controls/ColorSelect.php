@@ -19,7 +19,7 @@ function acid_register_color_select() {
                 <div class="colorpicker-field">
                     
                     <?php if ( !empty( $this->description ) ) : ?>
-                        <div class="description customize-control-description"><?php echo $this->description; ?></div>
+                        <div class="description customize-control-description"><?php echo esc_html( $this->description ); ?></div>
                     <?php endif; ?>
 
                     <?php

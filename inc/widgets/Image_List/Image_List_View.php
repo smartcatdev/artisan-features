@@ -1,5 +1,5 @@
 <?php 
-namespace zenith;
+namespace beyrouth;
 
 $this->css['#' . $args['widget_id'] ] = array(
     'background-color'  => $values['bg_color'],
@@ -33,7 +33,7 @@ $this->css['#'. $args['widget_id'] . ' .image-list-item h4 a'] = array(
 ?>
 
 
-<div class="zenith-module image-list" id="<?php attr( $args['widget_id' ] ); ?>">
+<div class="beyrouth-module image-list" id="<?php attr( $args['widget_id' ] ); ?>">
     
     <div class="container">
         

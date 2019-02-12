@@ -1,13 +1,13 @@
-=== Zenith Features ===
+=== Beyrouth Features ===
 Contributors: smartcat
-Tags: page,builder,zenith,widgets
+Tags: page,builder,beyrouth,widgets
 Requires at least: 4.9.0
-Tested up to: 4.9.6
-Stable tag: 1.1.2
+Tested up to: 5.0.2
+Stable tag: 1.0.0
 Requires PHP: 5.4
 License: GPLv2 or later
 
-Advanced Widgets for Zenith theme.
+Advanced Widgets for Beyrouth theme.
 
 == Description ==
 This plugin adds advanced, pre-designed widgets to your site that you can use in your theme. 
@@ -29,27 +29,6 @@ Available Widgets:
 
 == Changelog == 
 
-= 1.2.0
-New Feature: Added icon shortcodes
-New Feature: Added Image List Widget
-
-= 1.1.2
-Cleanup
-
-= 1.1.1
-Added safeguard for theme update
-
-= 1.1.0
-Added new free & pro presets
-Pro version now available!
-Added new page builder widget: Icon CTA
-Code cleanup and bug fixes
-
-= 1.0.2
-Updated presets
-
-= 1.0.1
-added 5 additional widgets, many updates
 
 = 1.0.0 = initial release
 

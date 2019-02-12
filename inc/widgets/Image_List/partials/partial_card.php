@@ -1,4 +1,4 @@
-<?php namespace zenith; ?>
+<?php namespace beyrouth; ?>
 
 <?php if ( !empty( $values[ 'image_' . $i ] ) ) : ?> 
 
@@ -10,7 +10,7 @@
                 <a href="<?php url( $values[ 'url_' . $i ] ); ?>">
             <?php endif; ?>
 
-                <img src="<?php url( $values[ 'image_' . $i ] ); ?>" alt="<?php echo !empty( $values[ 'title_' . $i ] ) ? $values[ 'title_' . $i ] : __( 'Image', 'zenith' ); ?>">
+                <img src="<?php url( $values[ 'image_' . $i ] ); ?>" alt="<?php echo !empty( $values[ 'title_' . $i ] ) ? $values[ 'title_' . $i ] : __( 'Image', 'beyrouth' ); ?>">
 
             <?php if ( !empty( $values[ 'url_' . $i ] ) ) : ?> 
                 </a>

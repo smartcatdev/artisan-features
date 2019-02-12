@@ -1,6 +1,6 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 /**
  * This file represents an example of the code that themes would use to register
@@ -13,7 +13,7 @@ namespace zenith;
  *
  * @package    TGM-Plugin-Activation
  * @subpackage Example
- * @version    2.6.1 for parent theme Zenith for publication on WordPress.org
+ * @version    2.6.1 for parent theme Beyrouth for publication on WordPress.org
  * @author     Thomas Griffin, Gary Jones, Juliette Reinders Folmer
  * @copyright  Copyright (c) 2011, Thomas Griffin
  * @license    http://opensource.org/licenses/gpl-2.0.php GPL v2 or later
@@ -36,7 +36,7 @@ namespace zenith;
 
 require get_template_directory() . '/inc/lib/tgmpa/class-tgm-plugin-activation.php';
 
-add_action( 'tgmpa_register', 'zenith\register_required_plugins' );
+add_action( 'tgmpa_register', 'beyrouth\register_required_plugins' );
 
 /**
  * Register the required plugins for this theme.
@@ -90,7 +90,7 @@ function register_required_plugins() {
      * Only uncomment the strings in the config array if you want to customize the strings.
      */
     $config = array (
-        'id' => 'zenith', // Unique ID for hashing notices for multiple instances of TGMPA.
+        'id' => 'beyrouth', // Unique ID for hashing notices for multiple instances of TGMPA.
         'default_path' => '', // Default absolute path to bundled plugins.
         'menu' => 'tgmpa-install-plugins', // Menu slug.
         'has_notices' => true, // Show admin notices or not.
@@ -101,76 +101,76 @@ function register_required_plugins() {
 
             /*
               'strings'      => array(
-              'page_title'                      => __( 'Install Required Plugins', 'zenith' ),
-              'menu_title'                      => __( 'Install Plugins', 'zenith' ),
+              'page_title'                      => __( 'Install Required Plugins', 'beyrouth' ),
+              'menu_title'                      => __( 'Install Plugins', 'beyrouth' ),
               /* translators: %s: plugin name. * /
-              'installing'                      => __( 'Installing Plugin: %s', 'zenith' ),
+              'installing'                      => __( 'Installing Plugin: %s', 'beyrouth' ),
               /* translators: %s: plugin name. * /
-              'updating'                        => __( 'Updating Plugin: %s', 'zenith' ),
-              'oops'                            => __( 'Something went wrong with the plugin API.', 'zenith' ),
+              'updating'                        => __( 'Updating Plugin: %s', 'beyrouth' ),
+              'oops'                            => __( 'Something went wrong with the plugin API.', 'beyrouth' ),
               'notice_can_install_required'     => _n_noop(
               /* translators: 1: plugin name(s). * /
               'This theme requires the following plugin: %1$s.',
               'This theme requires the following plugins: %1$s.',
-              'zenith'
+              'beyrouth'
               ),
               'notice_can_install_recommended'  => _n_noop(
               /* translators: 1: plugin name(s). * /
               'This theme recommends the following plugin: %1$s.',
               'This theme recommends the following plugins: %1$s.',
-              'zenith'
+              'beyrouth'
               ),
               'notice_ask_to_update'            => _n_noop(
               /* translators: 1: plugin name(s). * /
               'The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.',
               'The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s.',
-              'zenith'
+              'beyrouth'
               ),
               'notice_ask_to_update_maybe'      => _n_noop(
               /* translators: 1: plugin name(s). * /
               'There is an update available for: %1$s.',
               'There are updates available for the following plugins: %1$s.',
-              'zenith'
+              'beyrouth'
               ),
               'notice_can_activate_required'    => _n_noop(
               /* translators: 1: plugin name(s). * /
               'The following required plugin is currently inactive: %1$s.',
               'The following required plugins are currently inactive: %1$s.',
-              'zenith'
+              'beyrouth'
               ),
               'notice_can_activate_recommended' => _n_noop(
               /* translators: 1: plugin name(s). * /
               'The following recommended plugin is currently inactive: %1$s.',
               'The following recommended plugins are currently inactive: %1$s.',
-              'zenith'
+              'beyrouth'
               ),
               'install_link'                    => _n_noop(
               'Begin installing plugin',
               'Begin installing plugins',
-              'zenith'
+              'beyrouth'
               ),
               'update_link' 					  => _n_noop(
               'Begin updating plugin',
               'Begin updating plugins',
-              'zenith'
+              'beyrouth'
               ),
               'activate_link'                   => _n_noop(
               'Begin activating plugin',
               'Begin activating plugins',
-              'zenith'
+              'beyrouth'
               ),
-              'return'                          => __( 'Return to Required Plugins Installer', 'zenith' ),
-              'plugin_activated'                => __( 'Plugin activated successfully.', 'zenith' ),
-              'activated_successfully'          => __( 'The following plugin was activated successfully:', 'zenith' ),
+              'return'                          => __( 'Return to Required Plugins Installer', 'beyrouth' ),
+              'plugin_activated'                => __( 'Plugin activated successfully.', 'beyrouth' ),
+              'activated_successfully'          => __( 'The following plugin was activated successfully:', 'beyrouth' ),
               /* translators: 1: plugin name. * /
-              'plugin_already_active'           => __( 'No action taken. Plugin %1$s was already active.', 'zenith' ),
+              'plugin_already_active'           => __( 'No action taken. Plugin %1$s was already active.', 'beyrouth' ),
               /* translators: 1: plugin name. * /
-              'plugin_needs_higher_version'     => __( 'Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.', 'zenith' ),
+              'plugin_needs_higher_version'     => __( 'Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.', 'beyrouth' ),
               /* translators: 1: dashboard link. * /
-              'complete'                        => __( 'All plugins installed and activated successfully. %1$s', 'zenith' ),
-              'dismiss'                         => __( 'Dismiss this notice', 'zenith' ),
-              'notice_cannot_install_activate'  => __( 'There are one or more required or recommended plugins to install, update or activate.', 'zenith' ),
-              'contact_admin'                   => __( 'Please contact the administrator of this site for help.', 'zenith' ),
+              'complete'                        => __( 'All plugins installed and activated successfully. %1$s', 'beyrouth' ),
+              'dismiss'                         => __( 'Dismiss this notice', 'beyrouth' ),
+              'notice_cannot_install_activate'  => __( 'There are one or more required or recommended plugins to install, update or activate.', 'beyrouth' ),
+              'contact_admin'                   => __( 'Please contact the administrator of this site for help.', 'beyrouth' ),
 
               'nag_type'                        => '', // Determines admin notice type - can only be one of the typical WP notice classes, such as 'updated', 'update-nag', 'notice-warning', 'notice-info' or 'error'. Some of which may not work as expected in older WP versions.
               ),

@@ -1,5 +1,5 @@
 <?php 
-namespace zenith;
+namespace beyrouth;
 
 // CSS
 $this->css['#' . $args['widget_id'] ] = array(
@@ -55,7 +55,7 @@ if( 'stacked' == $values['video_location'] ) {
 
 ?>
 
-<div class="zenith-module video-cta" id="<?php echo esc_attr( $args['widget_id' ] ); ?>">
+<div class="beyrouth-module video-cta" id="<?php echo esc_attr( $args['widget_id' ] ); ?>">
     
     <div class="container">
         

@@ -1,14 +1,14 @@
 <?php
 
-namespace zenith;
+namespace beyrouth;
 
 class Image_CTA extends \AcidWidget{
     
     function __construct() {
         
         $args = array(
-            'id'            => 'zenith_image_cta', // 1. Edit the widget ID
-            'title'         => 'Zenith: Image CTA', // 2. Edit the Widget Title
+            'id'            => 'beyrouth_image_cta', // 1. Edit the widget ID
+            'title'         => 'Beyrouth: Image CTA', // 2. Edit the Widget Title
             'description'   => 'Output a single image, with some text in various ways', // 3. Edit the widget description
             'output_file'   => get_plugin_path( 'inc/widgets/Image_CTA/Image_CTA_View.php' ), // 4. Set the location of the frontend widget display
             'widget_title'  => false, // 5. Set to True if you want the built in Widget Title to be used
@@ -133,7 +133,7 @@ class Image_CTA extends \AcidWidget{
        );
         
         parent::__construct( $args, $fields, array(
-            'zenith-image-cta' => get_plugin_url( 'inc/widgets/Image_CTA/assets/image-cta.css' )
+            'beyrouth-image-cta' => get_plugin_url( 'inc/widgets/Image_CTA/assets/image-cta.css' )
         ) );
         
     }
@@ -142,7 +142,7 @@ class Image_CTA extends \AcidWidget{
 }
 
 function register_image_cta() {
-    register_widget( 'zenith\Image_CTA' );
+    register_widget( 'beyrouth\Image_CTA' );
 }
 
-add_action( 'widgets_init', 'zenith\register_image_cta' );
+add_action( 'widgets_init', 'beyrouth\register_image_cta' );

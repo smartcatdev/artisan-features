@@ -1,5 +1,5 @@
 <?php 
-namespace zenith;
+namespace beyrouth;
 
 
 $this->css['#' . $args['widget_id'] ] = array(
@@ -41,7 +41,7 @@ if( $values['text_align'] ) {
 
 ?>
 
-<div class="zenith-module icon-cta" id="<?php echo attr( $args['widget_id' ] ); ?>">
+<div class="beyrouth-module icon-cta" id="<?php echo attr( $args['widget_id' ] ); ?>">
     
     <div class="container">
         
