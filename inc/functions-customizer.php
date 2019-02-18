@@ -838,9 +838,9 @@ $data = array (
                             'label'         => __( 'Navbar Style', 'beyrouth' ),
                             'default'       => BEYROUTH_DEFAULTS::NAVBAR_STYLE,
                             'choices'   => array (
-                                'slim_split'    => __( 'Slim - Centered & Split', 'beyrouth' ),
-                                'slim_left'     => __( 'Slim - Left Aligned', 'beyrouth' ),
-                                'banner'        => __( 'Banner', 'beyrouth' ),
+//                                'slim_split'    => __( 'Slim - Centered & Split', 'beyrouth' ),
+//                                'slim_left'     => __( 'Slim - Left Aligned', 'beyrouth' ),
+//                                'banner'        => __( 'Banner', 'beyrouth' ),
                                 'vertical'      => __( 'Vertical', 'beyrouth' ),
                             )
                         ),
@@ -1103,7 +1103,7 @@ $data = array (
                             'choices'   => array(
                                 '#00a0bc'       => __( 'Cool Peppermint', 'beyrouth' ),
                                 '#f04265'       => __( 'Cherry Gloss', 'beyrouth' ),
-                                '#13ecb6'       => __( 'Seafoam Coast', 'beyrouth' ),
+                                '#75dbb3'       => __( 'Seafoam Coast', 'beyrouth' ),
                                 '#7f66ff'       => __( 'Royal Lilac', 'beyrouth' ),
                                 '#00d4ff'       => __( 'Sky Blue', 'beyrouth' ),
                             ),
