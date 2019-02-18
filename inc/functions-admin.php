@@ -5,7 +5,7 @@ namespace beyrouth;
 add_filter( 'user_contactmethods', 'beyrouth\modify_user_contact_methods' );
 add_action( 'wp_ajax_reset_content', '\beyrouth\reset_content' );
 //add_action( 'admin_menu', 'beyrouth\add_tools_page' );
-add_action( 'admin_menu', 'beyrouth\add_upgrade_page' );
+//add_action( 'admin_menu', 'beyrouth\add_upgrade_page' );
 
 
 function reset_content() {

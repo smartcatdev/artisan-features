@@ -255,9 +255,9 @@ $data = array (
                             'label'         => __( 'Header - Style', 'beyrouth' ),
                             'default'       => BEYROUTH_DEFAULTS::CUSTOM_HEADER_STYLE_TOGGLE,
                             'choices'   => array (
-                                'social'                => __( 'Parallax - Social', 'beyrouth' ),
+//                                'social'                => __( 'Parallax - Social', 'beyrouth' ),
                                 'parallax_vertical'     => __( 'Parallax - Vertical Scroll', 'beyrouth' ),
-                                'parallax_layers'       => __( 'Parallax - Perspective Layers', 'beyrouth' ),
+//                                'parallax_layers'       => __( 'Parallax - Perspective Layers', 'beyrouth' ),
                             )
                         ),
                         BEYROUTH_OPTIONS::CUSTOM_HEADER_HEIGHT_CALC => array (
